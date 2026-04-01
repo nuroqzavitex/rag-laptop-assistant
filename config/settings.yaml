@@ -1,0 +1,8 @@
+app: 
+  name: LaptopChatbot
+  version: 1.0.0-beta
+  env: production
+
+embedding:
+  model: models/text-multilingual-embedding-002
+  
