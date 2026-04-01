@@ -1,8 +1,46 @@
-app: 
-  name: LaptopChatbot
-  version: 1.0.0-beta
-  env: production
+# ─── API Keys ─────────────────────────────────────────────────────────────────
+# Không điền trực tiếp ở đây — để trống, giá trị thực đọc từ .env
+api:
+  gemini_key: ""         # GEMINI_API_KEY trong .env
+  openai_key: ""         # OPENAI_API_KEY trong .env (nếu dùng OpenAI)
 
+# ─── Paths ────────────────────────────────────────────────────────────────────
+paths:
+  data_files: "./data/merged_data_all.json"
+  chroma_db: "./chroma_db"
+  collection_name: "laptop_products"
+
+# ─── Embedding ────────────────────────────────────────────────────────────────
 embedding:
-  model: models/text-multilingual-embedding-002
-  
+  model: "models/text-multilingual-embedding-002"
+  batch_size: 50
+
+# ─── LLM ──────────────────────────────────────────────────────────────────────
+llm:
+  model: "gpt-4o-mini"
+  temperature: 0.3
+  max_tokens: 1024
+
+# ─── Retrieval ────────────────────────────────────────────────────────────────
+retrieval:
+  top_k_vector: 10
+  top_k_final: 3
+  vector_weight: 0.7
+  bm25_weight: 0.3
+
+# ─── System prompt ────────────────────────────────────────────────────────────
+system_prompt: |
+  Bạn là chuyên gia tư vấn laptop tại cửa hàng công nghệ.
+  Nhiệm vụ của bạn là giúp khách hàng chọn laptop phù hợp nhất với nhu cầu và ngân sách.
+
+  Quy tắc:
+  1. Chỉ tư vấn dựa trên danh sách sản phẩm được cung cấp trong context.
+  2. Luôn mention giá cụ thể (VNĐ) và tình trạng tồn kho.
+  3. So sánh ưu/nhược điểm khi có nhiều lựa chọn.
+  4. Nếu không có sản phẩm phù hợp, hãy thành thật nói không có.
+  5. Luôn hỏi thêm nếu cần rõ nhu cầu (ngân sách, mục đích dùng, v.v.).
+  6. Trả lời bằng tiếng Việt, thân thiện và chuyên nghiệp.
+  7. Đừng bịa thêm thông tin không có trong context.
+
+  Context sản phẩm:
+  {context}
