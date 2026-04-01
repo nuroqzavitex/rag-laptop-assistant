@@ -1,0 +1,4302 @@
+[
+    {
+        "id": "PROD_001",
+        "name": "Lenovo Legion 5 15IRX10 83LY00HQVN i7-13650HX RAM 16GB SSD 512GB RTX 5060 8GB 15.3'' FHD+ 165Hz OFFICE",
+        "brand": "Lenovo",
+        "price": 40190000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 13650HX",
+            "ram": "16GB DDR5",
+            "screen": "15.3\" FHD+ (1920x1200), 165Hz",
+            "gpu": "NVIDIA® GeForce RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/Legion_5_15IAX10_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-i7-16-512-5060-fhd-83ly00hqvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15IRX10 83LY00HQVN i7-13650HX RAM 16GB SSD 512GB RTX 5060 8GB 15.3'' FHD+ 165Hz OFFICE chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_002",
+        "name": "Lenovo LOQ 15IRX10 83JE00PEVN i7 13650HX RAM 16GB SSD 512GB RTX 5050 8GB 15.6\" FHD 144Hz",
+        "brand": "Lenovo",
+        "price": 34790000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 13650HX",
+            "ram": "16GB DDR5",
+            "screen": "15.6\" FHD (1920x1200), 144Hz",
+            "gpu": "NVIDIA® GeForce RTX™ 5050 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/LOQ_15IRX10_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-loq-i7-16gb-512gb-5050-8gb-fhd-83je00pevn/",
+        "description": "Sản phẩm Lenovo LOQ 15IRX10 83JE00PEVN i7 13650HX RAM 16GB SSD 512GB RTX 5050 8GB 15.6\" FHD 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_003",
+        "name": "Lenovo LOQ 15IRX9 83DV01ALVN Core i7 13650HX RAM 16GB SSD 512GB RTX 4050 15.6\" FHD 144hz",
+        "brand": "Lenovo",
+        "price": 29490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Core i7 13650HX",
+            "ram": "16GB DDR5-4800",
+            "screen": "15.6″, FHD (1920x1080), 144Hz",
+            "gpu": "NVIDIA® GeForce RTX™ 4050 6GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/loq_15irx9_ct1_03_3ddbf5707059453d86e1c853aef49dba_master.webp",
+        "product_url": "https://trungtran.vn/lenovo-loq-i7-13650hx-16-512-4050-15irx9-83dv01alvn/",
+        "description": "Sản phẩm Lenovo LOQ 15IRX9 83DV01ALVN Core i7 13650HX RAM 16GB SSD 512GB RTX 4050 15.6\" FHD 144hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_004",
+        "name": "Lenovo Legion 5 15IRX10 83LY00HRVN 2025 i7-13650HX 16GB 512GB RTX™ 5050 15.3\" FHD+ 165Hz OFFICE",
+        "brand": "Lenovo",
+        "price": 37490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 13650HX",
+            "ram": "16GB DDR5 4800mhz",
+            "screen": "15.3\" FHD+ (1920x1200), 165Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5050 8GB GDDR7",
+            "storage": "512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/Legion_5_15IAX10_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15irx10-i7-16-rtx-5050-fhd-83ly00hrvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15IRX10 83LY00HRVN 2025 i7-13650HX 16GB 512GB RTX™ 5050 15.3\" FHD+ 165Hz OFFICE chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_005",
+        "name": "Lenovo Legion Pro 7i 2025 Y9000P Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K OLED 240Hz Eclipse Gray",
+        "brand": "Lenovo",
+        "price": 66190000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5070Ti 12GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_pro_7i_2025-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-7i-y9000p-ultra-9-32-rtx-5070ti/",
+        "description": "Sản phẩm Lenovo Legion Pro 7i 2025 Y9000P Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K OLED 240Hz Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_006",
+        "name": "Asus ROG Zephyrus G14 GA403WM-QS051WS Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5060 14\" 3K OLED 120Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 53790000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 7500 onboard",
+            "screen": "14\" 3K(280x1800) OLED, 120Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060",
+            "storage": "SSD 1TB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/zephyrus_g14_grey_05_rgb_1.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g14-ga403wm-qs051ws-ryzen-9-rtx-5060-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 GA403WM-QS051WS Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5060 14\" 3K OLED 120Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_007",
+        "name": "HP OMEN 16 2025 i9 14900HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "HP",
+        "price": 36790000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i9 14900HX",
+            "ram": "32GB DDR5 5600Mhz",
+            "screen": "16\" 2.5K(2560x1600), 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/hp_omen_16_thumbnail-copy.webp",
+        "product_url": "https://trungtran.vn/hp-omen-16-intel-i9-14900hx-rtx-5060-qhd-240hz/",
+        "description": "Sản phẩm HP OMEN 16 2025 i9 14900HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_008",
+        "name": "Asus ROG STRIX G16 G615JMR-S5155W 2025 i7 14650HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz Eclipse Gray",
+        "brand": "Asus",
+        "price": 43000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 14650HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16\" 2.5K (2560 x 1600), 240Hz",
+            "gpu": "NVIDIA Geforce RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/02_g_new_16_l_1.webp",
+        "product_url": "https://trungtran.vn/asus-rog-strix-g16-i7-14650hx-32-rtx-5060-2k-g615jmr-s5155w/",
+        "description": "Sản phẩm Asus ROG STRIX G16 G615JMR-S5155W 2025 i7 14650HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_009",
+        "name": "Asus ROG Zephyrus G14 GA403WP-QS045WS Ryzen AI 9 HX370 Ram 32GB SSD 1TB RTX 5070 14' 3K OLED 120hz Tặng Office 2024 | Eclipse Gray",
+        "brand": "Asus",
+        "price": 56000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X Onboard",
+            "screen": "14' (2880 x 1800) OLED 120Hz 500 nits",
+            "gpu": "NVIDIA® GeForce RTX™ 5070",
+            "storage": "SSD 1TB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/zephyrus_g14_grey_05_rgb_1(1).webp",
+        "product_url": "https://trungtran.vn/asus-rog-zephyrus-g14-ryzen-9-32-5070-oled-ga403wp-qs045ws/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 GA403WP-QS045WS Ryzen AI 9 HX370 Ram 32GB SSD 1TB RTX 5070 14' 3K OLED 120hz Tặng Office 2024 | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_010",
+        "name": "Asus ROG Strix SCAR 18 G835LR-SA130W 2025 Ultra 9 275HX RAM 32GB 1TB RTX 5070Ti 18\" 2.5K MiniLED 240Hz",
+        "brand": "Asus",
+        "price": 66590000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "18\" 2.5K (2560 x 1600), MiniLED",
+            "gpu": "NVIDIA Geforce RTX 5070Ti 12GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/02_scar_new_18_l.webp",
+        "product_url": "https://trungtran.vn/asus-rog-strix-scar-18-u9-rtx-5070ti-2k-g835lr-sa130w/",
+        "description": "Sản phẩm Asus ROG Strix SCAR 18 G835LR-SA130W 2025 Ultra 9 275HX RAM 32GB 1TB RTX 5070Ti 18\" 2.5K MiniLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_011",
+        "name": "Lenovo LOQ 15IRX10 83JE01AGVN i7 13645HX RAM 16GB SSD 512GB RTX 5050 8GB 15.6\" FHD 144Hz",
+        "brand": "Lenovo",
+        "price": 34790000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 13645HX",
+            "ram": "16GB DDR5",
+            "screen": "15.6\" FHD (1920x1200), 144Hz",
+            "gpu": "NVIDIA® GeForce RTX™ 5050 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/LOQ_15IRX10_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-loq-i7-13645hx-16gb-512gb-5050-8gb-fhd-83je01agvn/",
+        "description": "Sản phẩm Lenovo LOQ 15IRX10 83JE01AGVN i7 13645HX RAM 16GB SSD 512GB RTX 5050 8GB 15.6\" FHD 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_012",
+        "name": "Dell Precision 7780 i7 13850HX RAM 64GB SSD 1TB RTX 3500 Ada FHD",
+        "brand": "Dell",
+        "price": 53500000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13850HX",
+            "ram": "64GB DDR5 5200MHz CAMM",
+            "screen": "17.3″ FHD (1920 x 1080) WVA, 500nits",
+            "gpu": "NVIDIA® RTX 3500 Ada 12GB GDDR6",
+            "storage": "SSD 1TB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/dell_precision_m7770_mobile_workstation_i7_trungtran_12-copy.webp",
+        "product_url": "https://trungtran.vn/dell-precision-7780-i7-quadro-rtx-fhd/",
+        "description": "Sản phẩm Dell Precision 7780 i7 13850HX RAM 64GB SSD 1TB RTX 3500 Ada FHD chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_013",
+        "name": "Lenovo Legion Pro 5 R9000P 16ADR10 2025 Ryzen 9 8945HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "Lenovo",
+        "price": 39490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 8945HX",
+            "ram": "16GB DDR5 5200mhz",
+            "screen": "16 (2560x1600), 240Hz, 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_pro_5_r9000p_16adr10_2025_(3).webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-5-r9000p-16adr10-ryzen-9-rtx-5060-qhd-83lv/",
+        "description": "Sản phẩm Lenovo Legion Pro 5 R9000P 16ADR10 2025 Ryzen 9 8945HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_014",
+        "name": "Asus ProArt P16 H7606W Ryzen AI 9 HX 370 RAM 64GB SSD 2TB RTX 5070 16\" 2.8K 120Hz OLED Touch Nano Black",
+        "brand": "Asus",
+        "price": 69990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 370",
+            "ram": "64GB LPDDR5X",
+            "screen": "16″ 2.8K (2880 x 1800)OLED, 120Hz",
+            "gpu": "AMD Radeon 890M + RTX 5070 8GB GDDR7",
+            "storage": "SSD 2TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_proart_p16_h7606wv_3-copy.webp",
+        "product_url": "https://trungtran.vn/asus-proart-p16-ryzen-ai-9-64-oled-rtx-5070-black/",
+        "description": "Sản phẩm Asus ProArt P16 H7606W Ryzen AI 9 HX 370 RAM 64GB SSD 2TB RTX 5070 16\" 2.8K 120Hz OLED Touch Nano Black chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_015",
+        "name": "Lenovo Legion 5 15IAX10 83F0003CVN Ultra 7 255HX 32GB 1TB RTX 5060 15.1\" 2.5K OLED 165Hz OFFICE",
+        "brand": "Lenovo",
+        "price": 48790000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 255HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "15.1\" 2.5K (2560x1600) oled, 165Hz",
+            "gpu": "Intel® Graphics + RTX 5060 8GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_pro_5_16iax10_ct1_03-copy-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15iax10-ultra7-32-rtx-5060-oled-83f0003cvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15IAX10 83F0003CVN Ultra 7 255HX 32GB 1TB RTX 5060 15.1\" 2.5K OLED 165Hz OFFICE chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_016",
+        "name": "HP OMEN 16 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "HP",
+        "price": 32290000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 14650HX",
+            "ram": "16GB DDR5 5600Mhz",
+            "screen": "16\" 2.5K(2560x1600), 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/HP_OMEN_16_THUMBNAIL.webp",
+        "product_url": "https://trungtran.vn/hp-omen-16-intel-i7-14650hx-rtx-5060-qhd-240hz-tpn-q304/",
+        "description": "Sản phẩm HP OMEN 16 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_017",
+        "name": "Lenovo Lecoo Fighter 7000 2025 i7 13650HX RAM 16GB SSD 512GB RTX 5060 16\" 2.5K 180Hz",
+        "brand": "Lenovo",
+        "price": 27490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13650HX",
+            "ram": "16GB DDR5 4800Mhz",
+            "screen": "16\" 2.5K (2560x1600), 180Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/lenovo_lecoo_fighter_7000_2025_1-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-lecoo-fighter-7000-intel-i7-13650hx-16-512-5060-qhd/",
+        "description": "Sản phẩm Lenovo Lecoo Fighter 7000 2025 i7 13650HX RAM 16GB SSD 512GB RTX 5060 16\" 2.5K 180Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_018",
+        "name": "Lenovo Legion Pro 7i FIFA World Cup 26 Edition 16IAX10H 83F500JGVN Ultra 9 275HX 32GB 1TB RTX 5070Ti 16\" OLED 240hz",
+        "brand": "Lenovo",
+        "price": 80690000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Core Ultra 9 275HX",
+            "ram": "32GB CSODIMM DDR5-6400",
+            "screen": "16\" 2.5K (2560x1600) OLED 240hz",
+            "gpu": "NVIDIA® GeForce RTX™ 5070Ti 12GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/Lenovo_legion_pro_7i_16IAX10H_FF_26_(11).webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-7i-ultra-9-275hx-32-1tb-5070ti-83f500jgvn/",
+        "description": "Sản phẩm Lenovo Legion Pro 7i FIFA World Cup 26 Edition 16IAX10H 83F500JGVN Ultra 9 275HX 32GB 1TB RTX 5070Ti 16\" OLED 240hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_019",
+        "name": "Asus ProArt P16 H7606W Ryzen AI 9 HX 370 RAM 64GB SSD 1TB RTX 5060 16\" 2.8K 120Hz OLED Touch Nano Black",
+        "brand": "Asus",
+        "price": 62990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 370",
+            "ram": "64GB LPDDR5X",
+            "screen": "16″ 2.8K (2880 x 1800)OLED, 120Hz",
+            "gpu": "AMD Radeon 890M + RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_proart_p16_h7606wv_(3)(1).webp",
+        "product_url": "https://trungtran.vn/asus-proart-p16-ryzen-ai-9-64-1tb-oled-rtx-5060-black/",
+        "description": "Sản phẩm Asus ProArt P16 H7606W Ryzen AI 9 HX 370 RAM 64GB SSD 1TB RTX 5060 16\" 2.8K 120Hz OLED Touch Nano Black chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_020",
+        "name": "Asus ROG Strix SCAR 18 G835LX-SA208W 2025 Ultra 9 275HX RAM 64GB 2TB RTX 5090 18\" 2.5K MiniLED 240Hz",
+        "brand": "Asus",
+        "price": 119890000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 275HX",
+            "ram": "64GB DDR5 5600MHz",
+            "screen": "18\" 2.5K (2560 x 1600), MiniLED",
+            "gpu": "NVIDIA Geforce RTX 5090 24GB GDDR7",
+            "storage": "2TB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/02_scar_new_18_l.webp",
+        "product_url": "https://trungtran.vn/asus-rog-strix-scar-18-u9-rtx-2k-g835lx-sa208w/",
+        "description": "Sản phẩm Asus ROG Strix SCAR 18 G835LX-SA208W 2025 Ultra 9 275HX RAM 64GB 2TB RTX 5090 18\" 2.5K MiniLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_021",
+        "name": "Lenovo Legion 5 Y7000 15IRX10 2025 i7 14650HX RAM 16GB SSD 512GB RTX 5060 15.3\" 2.5K 180Hz",
+        "brand": "Lenovo",
+        "price": 32490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 14650HX",
+            "ram": "16GB DDR5 5600mhz",
+            "screen": "15.3\" 2.5K (2560x1600), 180Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_5_15irx10_2025_(3)(1).webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-y7000-15irx10-i7-14650hx-rtx-5060-qhd-83ly/",
+        "description": "Sản phẩm Lenovo Legion 5 Y7000 15IRX10 2025 i7 14650HX RAM 16GB SSD 512GB RTX 5060 15.3\" 2.5K 180Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_022",
+        "name": "Lenovo Legion Pro 5 Y9000P 16IAX10 2025 Ultra 9 275HX 32GB 1TB RTX 5070 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 50990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5070 8GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/lenovo_legion_pro_5i_y9000p_16iax10_2025_(10)(1).webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-y9000p-16iax10-ultra-9-32-rtx-5070-83f4/",
+        "description": "Sản phẩm Lenovo Legion Pro 5 Y9000P 16IAX10 2025 Ultra 9 275HX 32GB 1TB RTX 5070 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_023",
+        "name": "Lenovo Legion R7000P 16ADR10 2025 Ryzen 9 8945HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "Lenovo",
+        "price": 34990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 8945HX",
+            "ram": "16GB DDR5 5200mhz",
+            "screen": "16 (2560x1600), 240Hz, 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_pro_5_16adr10_2025_13-copy-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-r7000p-ryzen-9-8945hx-rtx-5060-qhd-83lt/",
+        "description": "Sản phẩm Lenovo Legion R7000P 16ADR10 2025 Ryzen 9 8945HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_024",
+        "name": "Lenovo Lecoo Fighter 7000 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 180Hz",
+        "brand": "Lenovo",
+        "price": 30490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 14650HX",
+            "ram": "16GB DDR5 5600Mhz",
+            "screen": "16\" 2.5K(2560x1600), 180Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/lenovo_lecoo_fighter_7000_2025_(1).webp",
+        "product_url": "https://trungtran.vn/lenovo-lecoo-fighter-7000-intel-i7-16-rtx-5060-qhd-n176b/",
+        "description": "Sản phẩm Lenovo Lecoo Fighter 7000 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 180Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_025",
+        "name": "HP OMEN 16 2025 Ryzen 9 8945HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "HP",
+        "price": 31990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 8945HX",
+            "ram": "16GB DDR5 5200Mhz",
+            "screen": "16\" 2.5K(2560x1600), 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/hp_omen_16_thumbnail-copy-copy.webp",
+        "product_url": "https://trungtran.vn/hp-omen-16-ryzen-9-8945hx-rtx-5060-qhd-240hz/",
+        "description": "Sản phẩm HP OMEN 16 2025 Ryzen 9 8945HX RAM 16GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_026",
+        "name": "Lenovo LOQ 15ARP9 83JC00LVVN Ryzen 5 7235HS RAM 16GB SSD 512GB RTX 3050 6GB 15.6\" FHD 144Hz",
+        "brand": "Lenovo",
+        "price": 24990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 5 7235HS",
+            "ram": "16GB DDR5 4800MHz",
+            "screen": "15.6″, FHD (1920x1080), 144Hz",
+            "gpu": "Nvidia Geforce RTX 3050 6GB",
+            "storage": "SSD 512GB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/loq_15arp9_1-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-loq-15arp9-ryzen-5-16-rtx-3050-fhd-83jc00lvvn/",
+        "description": "Sản phẩm Lenovo LOQ 15ARP9 83JC00LVVN Ryzen 5 7235HS RAM 16GB SSD 512GB RTX 3050 6GB 15.6\" FHD 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_027",
+        "name": "Lenovo LOQ 15ARP9 83JC00M3VN Ryzen 5 7235HS RAM 16GB SSD 1TB RTX 3050 6GB 15.6\" FHD 144Hz",
+        "brand": "Lenovo",
+        "price": 25590000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 5 7235HS",
+            "ram": "16GB DDR5 4800MHz",
+            "screen": "15.6″, FHD (1920x1080), 144Hz",
+            "gpu": "Nvidia Geforce RTX 3050 6GB",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/Screenshot_2025-06-03_112148.webp",
+        "product_url": "https://trungtran.vn/lenovo-loq-15arp9-ryzen-5-16-1tb-rtx-3050-fhd-83jc00m3vn/",
+        "description": "Sản phẩm Lenovo LOQ 15ARP9 83JC00M3VN Ryzen 5 7235HS RAM 16GB SSD 1TB RTX 3050 6GB 15.6\" FHD 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_028",
+        "name": "Asus ROG STRIX G16 G615JPR-S5107W 2025 i7 14650HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K 240Hz",
+        "brand": "Asus",
+        "price": 46490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 14650HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16\" 2.5K (2560 x 1600), 240Hz",
+            "gpu": "NVIDIA Geforce RTX 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/02_g_new_16_l_1.webp",
+        "product_url": "https://trungtran.vn/asus-rog-strix-g16-i7-14650hx-32-rtx-5070-2k-g615jpr-s5107w/",
+        "description": "Sản phẩm Asus ROG STRIX G16 G615JPR-S5107W 2025 i7 14650HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_029",
+        "name": "Asus ProArt P16 H7606W Ryzen AI 9 HX 370 RAM 64GB SSD 4TB RTX 5090 16\" 4K 120Hz OLED Nano Black",
+        "brand": "Asus",
+        "price": 125000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 370",
+            "ram": "64GB LPDDR5X",
+            "screen": "16″ 2.8K (2880 x 1800)OLED, 120Hz",
+            "gpu": "AMD Radeon 890M + RTX 5090 24GB GDDR7",
+            "storage": "SSD 4TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_proart_p16_h7606wv_(3)(1).webp",
+        "product_url": "https://trungtran.vn/asus-proart-p16-ryzen-ai-9-64-4tb-oled-rtx-5090-black/",
+        "description": "Sản phẩm Asus ProArt P16 H7606W Ryzen AI 9 HX 370 RAM 64GB SSD 4TB RTX 5090 16\" 4K 120Hz OLED Nano Black chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_030",
+        "name": "Lenovo Legion 5 15AHP10 83M0002XVN Ryzen 7 260 24GB 512GB RTX 5050 15.1\" 2.5K OLED 165Hz OFFICE",
+        "brand": "Lenovo",
+        "price": 35990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 260",
+            "ram": "24GB DDR5 5600MHz",
+            "screen": "15.1\" 2.5K (2560x1600) oled, 165Hz",
+            "gpu": "RTX 5050 8GB GDDR7",
+            "storage": "512GB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_5_15ahp10_ct1_03-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15ahp10-ryzen-7-24-rtx-5050-oled-83m0002xvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15AHP10 83M0002XVN Ryzen 7 260 24GB 512GB RTX 5050 15.1\" 2.5K OLED 165Hz OFFICE chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_031",
+        "name": "Acer Shadow Knight 6 i7 14650HX RAM 16GB SSD 1TB RTX 4060 16\" 2.5K 240Hz",
+        "brand": "Acer",
+        "price": 29190000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 14650HX",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16\", 2.5k+ (2560x1600) IPS, 240Hz",
+            "gpu": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+            "storage": "SSD 1TB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/acer_shadow_sh16_72_7g42.webp",
+        "product_url": "https://trungtran.vn/acer-shadow-knight-6-intel-i7-14650hx-rtx-4060-qhd-240hz/",
+        "description": "Sản phẩm Acer Shadow Knight 6 i7 14650HX RAM 16GB SSD 1TB RTX 4060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_032",
+        "name": "Thinkpad P16 Gen 1 i7 12850HX RAM 32GB SSD 512GB RTX A3000 12GB FHD+",
+        "brand": "Thinkpad",
+        "price": 33590000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 12850HX",
+            "ram": "từ 32GB (có thể nâng cấp)",
+            "screen": "16 \" FHD+(1920x1200), 300nits",
+            "gpu": "Nvidia Quadro RTX A3000 12GB",
+            "storage": "SSD 512GB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkpad_p16_gen_1_thumbnail.webp",
+        "product_url": "https://trungtran.vn/thinkpad-p16-gen-1-i7-rtx-fhd/",
+        "description": "Sản phẩm Thinkpad P16 Gen 1 i7 12850HX RAM 32GB SSD 512GB RTX A3000 12GB FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_033",
+        "name": "Lenovo Legion Pro 7i 2025 Y9000P Ultra 9 275HX RAM 32GB SSD 1TB RTX 5080 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 73000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5080 16GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_pro_7i_2025.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-7i-y9000p-ultra-9-32-rtx-5080/",
+        "description": "Sản phẩm Lenovo Legion Pro 7i 2025 Y9000P Ultra 9 275HX RAM 32GB SSD 1TB RTX 5080 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_034",
+        "name": "Lenovo Legion Pro 5 R9000P 16ADR10 2025 Ryzen 9 8945HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K 240Hz",
+        "brand": "Lenovo",
+        "price": 41990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 8945HX",
+            "ram": "16GB DDR5 5200mhz",
+            "screen": "16 (2560x1600), 240Hz, 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_pro_5_r9000p_16adr10_2025_3-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-5-r9000p-16adr10-ryzen-9-rtx-5070-qhd-83lv/",
+        "description": "Sản phẩm Lenovo Legion Pro 5 R9000P 16ADR10 2025 Ryzen 9 8945HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_035",
+        "name": "Lenovo Legion Pro 5 Y9000P 16IAX10 2025 Ultra 9 275HX 32GB 1TB RTX 5060 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 43790000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5060 8GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/lenovo_legion_pro_5i_y9000p_16iax10_2025 (10).webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-y9000p-16iax10-ultra-9-32-rtx-5060-83f4/",
+        "description": "Sản phẩm Lenovo Legion Pro 5 Y9000P 16IAX10 2025 Ultra 9 275HX 32GB 1TB RTX 5060 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_036",
+        "name": "Lenovo Legion Pro 7i 2025 Y9000P Ultra 9 275HX RAM 64GB SSD 2TB RTX 5090 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 99000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "64GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5090 24GB GDDR7",
+            "storage": "SSD 2TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_pro_7i_2025-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-7i-y9000p-ultra-9-64-rtx-5090/",
+        "description": "Sản phẩm Lenovo Legion Pro 7i 2025 Y9000P Ultra 9 275HX RAM 64GB SSD 2TB RTX 5090 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_037",
+        "name": "Lenovo Legion Pro 7 16IAX10H 83F5008VVN 2025 Ultra 9 275HX 32GB 1TB RTX 5070Ti 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 79000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5070Ti 12GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/Legion_Pro_7_16IAX10H_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5070ti-83f5008vvn/",
+        "description": "Sản phẩm Lenovo Legion Pro 7 16IAX10H 83F5008VVN 2025 Ultra 9 275HX 32GB 1TB RTX 5070Ti 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_038",
+        "name": "Lenovo Legion Pro 7 16IAX10H 83F5008WVN 2025 Ultra 9 275HX 32GB 1TB RTX 5080 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 89890000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5080 16GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_pro_7_16iax10h_ct1_03-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-7-16iax10h-ultra-9-rtx-5080-83f5008wvn/",
+        "description": "Sản phẩm Lenovo Legion Pro 7 16IAX10H 83F5008WVN 2025 Ultra 9 275HX 32GB 1TB RTX 5080 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_039",
+        "name": "Lenovo Legion R7000P 16ADR10 2025 Ryzen 9 8945HX RAM 16GB SSD 1TB RTX 5070 16\" 2.5K 240Hz",
+        "brand": "Lenovo",
+        "price": 37990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 8945HX",
+            "ram": "16GB DDR5 5200mhz",
+            "screen": "16 (2560x1600), 240Hz, 500nits",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_pro_5_16adr10_2025_13-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-r7000p-ryzen-9-8945hx-rtx-5070-qhd-83lt/",
+        "description": "Sản phẩm Lenovo Legion R7000P 16ADR10 2025 Ryzen 9 8945HX RAM 16GB SSD 1TB RTX 5070 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_040",
+        "name": "Lenovo Legion 5 R7000 15AHP10 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB RTX 5060 15.3\" 2.5K 180Hz",
+        "brand": "Lenovo",
+        "price": 31490000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "16GB DDR5 5600mhz",
+            "screen": "15.3\" 2.5K(2560x1600), 180Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/legion_r7000_2025_83m0.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-r7000-15ahp10-ryzen-7-rtx-5060-qhd/",
+        "description": "Sản phẩm Lenovo Legion 5 R7000 15AHP10 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB RTX 5060 15.3\" 2.5K 180Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_041",
+        "name": "Asus ROG Zephyrus G14 GA403WR-QS156WS Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5070Ti 14\" 3K OLED 120Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 65290000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 8000 onboard",
+            "screen": "14\" 3K(280x1800) OLED, 120Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070Ti",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/zephyrus_g14_grey_05_rgb_1.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g14-ga403wr-qs156ws-ryzen-9-rtx-5070ti-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 GA403WR-QS156WS Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5070Ti 14\" 3K OLED 120Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_042",
+        "name": "Asus ROG Zephyrus G16 GU605CM-QR078W Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 2.5K+ OLED 240Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 58690000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 7467 onboard",
+            "screen": "16.0\" 2.5K+(2560x1600) OLED, 240Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060",
+            "storage": "SSD 1TB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_rog_zephyrus_g16_gu605mv_eclipse_grey_(1).webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g16-gu605cm-qr078w-ultra9-rtx-5060-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G16 GU605CM-QR078W Ultra 9 285H RAM 32GB SSD 1TB RTX 5060 16\" 2.5K+ OLED 240Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_043",
+        "name": "Asus ROG Zephyrus G16 GU605CR-QR107W Ultra 9 285H RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K+ OLED 240Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 71000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 7467 onboard",
+            "screen": "16.0\" 2.5K+(2560x1600) OLED, 240Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070Ti",
+            "storage": "SSD 1TB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_rog_zephyrus_g16_gu605mv_eclipse_grey_(1).webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g16-gu605cr-qr107w-ultra9-rtx-5070ti-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G16 GU605CR-QR107W Ultra 9 285H RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K+ OLED 240Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_044",
+        "name": "Lenovo Legion Pro 5 16IAX10 83F3002GVN 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 54990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/Legion_Pro_5_16IAX10_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-5-y9000p-16iax10-rtx-5070-83f3002gvn/",
+        "description": "Sản phẩm Lenovo Legion Pro 5 16IAX10 83F3002GVN 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_045",
+        "name": "Lenovo Legion Pro 5 16IAX10 83F3003VVN 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 49990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "16\" 2.5K (2560x1600) oled, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_pro_5_16iax10_ct1_03-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-pro-5-y9000p-16iax10-rtx-5060-83f3003vvn/",
+        "description": "Sản phẩm Lenovo Legion Pro 5 16IAX10 83F3003VVN 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_046",
+        "name": "Lenovo Legion 5 15IRX10 83LY004JVN 2025 i7 14700HX 24GB 1TB RTX 5060 15.1\" 2.5K OLED 165Hz",
+        "brand": "Lenovo",
+        "price": 40990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel core i7 14700HX",
+            "ram": "24GB DDR5 4800mhz",
+            "screen": "15.1\" 2.5K (2560x1600), 165Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5060 8GB GDDR7",
+            "storage": "1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/Legion_5_15IRX10_CT1_02.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15irx10-i7-16-rtx-5060-oled-83ly004jvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15IRX10 83LY004JVN 2025 i7 14700HX 24GB 1TB RTX 5060 15.1\" 2.5K OLED 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_047",
+        "name": "Lenovo Legion 7 16IAX10 83KY001VVN Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 67990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16\" 2.5K (2560x1600) oled, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/Legion_7_16IAX10_CT1_02.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-7-16iax10-ultra9-rtx-5070-oled-83ky001vvn/",
+        "description": "Sản phẩm Lenovo Legion 7 16IAX10 83KY001VVN Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_048",
+        "name": "Lenovo Legion 7 16IAX10 83KY001UVN Ultra 9 275HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K OLED 240Hz",
+        "brand": "Lenovo",
+        "price": 61990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16\" 2.5K (2560x1600) oled, 240Hz",
+            "gpu": "Intel® Graphics + RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_7_16iax10_ct1_02-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-7-16iax10-ultra9-rtx-5060-oled-83ky001uvn/",
+        "description": "Sản phẩm Lenovo Legion 7 16IAX10 83KY001UVN Ultra 9 275HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_049",
+        "name": "Lenovo Legion 5 15AHP10 83M0002YVN Ryzen 7 260 RAM 16GB SSD 512GB RTX 5050 15.1\" 2.5K OLED 165Hz",
+        "brand": "Lenovo",
+        "price": 37290000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 260",
+            "ram": "12GB DDR5 5600MHz",
+            "screen": "15.1\" 2.5K (2560x1600) oled, 165Hz",
+            "gpu": "RTX 5050 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/Legion_5_15AHP10_CT1_03.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15ahp10-ryzen-7-16-rtx-5050-oled-83m0002yvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15AHP10 83M0002YVN Ryzen 7 260 RAM 16GB SSD 512GB RTX 5050 15.1\" 2.5K OLED 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_050",
+        "name": "Lenovo Legion 5 15IAX10 83F0003BVN Ultra 7 255HX RAM 32GB SSD 1TB RTX 5070 15.1\" 2.5K OLED 165Hz",
+        "brand": "Lenovo",
+        "price": 51990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 255HX",
+            "ram": "32GB DDR5 6400MHz",
+            "screen": "15.1\" 2.5K (2560x1600) oled, 165Hz",
+            "gpu": "Intel® Graphics + RTX 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_pro_5_16iax10_ct1_03-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15iax10-ultra7-32-rtx-5070-oled-83f0003bvn/",
+        "description": "Sản phẩm Lenovo Legion 5 15IAX10 83F0003BVN Ultra 7 255HX RAM 32GB SSD 1TB RTX 5070 15.1\" 2.5K OLED 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_051",
+        "name": "Lenovo Legion 5 15IRX10 83LY00A7VN i7 14700HX RAM 16GB SSD 512GB RTX 5050 15.1\" 2.5K OLED 165Hz",
+        "brand": "Lenovo",
+        "price": 37990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 14700HX",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "15.1\" 2.5K (2560x1600) oled, 165Hz",
+            "gpu": "Intel® UHD Graphics + RTX 5050 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/Legion_5_15IRX10_CT1_02.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15irx10-i7-16-rtx-5050-oled-83ly00a7vn/",
+        "description": "Sản phẩm Lenovo Legion 5 15IRX10 83LY00A7VN i7 14700HX RAM 16GB SSD 512GB RTX 5050 15.1\" 2.5K OLED 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_052",
+        "name": "Lenovo Legion 5 15AHP10 83M00030VN Ryzen 7 260 RAM 24GB SSD 1TB RTX 5060 15.1\" 2.5K OLED 165Hz",
+        "brand": "Lenovo",
+        "price": 40990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 260",
+            "ram": "24GB DDR5 5600MHz",
+            "screen": "15.1\" 2.5K (2560x1600) oled, 165Hz",
+            "gpu": "RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/legion_5_15ahp10_ct1_03-copy-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-legion-5-15ahp10-ryzen-7-24-rtx-5060-oled-83m00030vn/",
+        "description": "Sản phẩm Lenovo Legion 5 15AHP10 83M00030VN Ryzen 7 260 RAM 24GB SSD 1TB RTX 5060 15.1\" 2.5K OLED 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_053",
+        "name": "Laptop Asus ROG Zephyrus G16 GU605MV Ultra 9 185H RAM 32GB SSD 1TB RTX 4060 16\" 2.5K+ OLED 240Hz | Platinum White",
+        "brand": "Laptop",
+        "price": 56000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "",
+            "ram": "32GB LPDDR5X 7467MHz onboard",
+            "screen": "16.0\" 2.5K+(2560x1600) OLED, 240Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
+            "storage": "SSD 1TB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/asus_rog_zephyrus_g16_gu605mv_platinum_white_thumbnail.webp",
+        "product_url": "https://trungtran.vn/laptop-asus-rog-zehyrus-g16-gu605mv-ultra9-rtx-white/",
+        "description": "Sản phẩm Laptop Asus ROG Zephyrus G16 GU605MV Ultra 9 185H RAM 32GB SSD 1TB RTX 4060 16\" 2.5K+ OLED 240Hz | Platinum White chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_054",
+        "name": "Laptop Asus ROG Zephyrus G16 GU605MV Ultra 9 185H RAM 32GB SSD 1TB RTX 4060 16\" 2.5K+ OLED 240Hz | Eclipse Grey",
+        "brand": "Laptop",
+        "price": 55000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "",
+            "ram": "32GB LPDDR5X 7467MHz onboard",
+            "screen": "16.0 inch WQXGA (2560x1600) IPS, 240Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 4060 8GB GDDR6",
+            "storage": "SSD 1TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/asus_rog_zephyrus_g16_gu605mv_eclipse_grey_(1).webp",
+        "product_url": "https://trungtran.vn/laptop-asus-rog-zehyrus-g16-gu605mv-ultra9-rtx-grey/",
+        "description": "Sản phẩm Laptop Asus ROG Zephyrus G16 GU605MV Ultra 9 185H RAM 32GB SSD 1TB RTX 4060 16\" 2.5K+ OLED 240Hz | Eclipse Grey chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_055",
+        "name": "Asus ROG Zephyrus G16 2025 GU605 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K+ OLED 240Hz | Moonlight White",
+        "brand": "Asus",
+        "price": 68990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 7467 onboard",
+            "screen": "16.0\" 2.5K+(2560x1600) OLED, 240Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070Ti 12GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/asus_rog_zephyrus_g16_gu605mv_platinum_white_thumbnail-copy.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g16-gu605-ultra9-rtx-5070ti-white/",
+        "description": "Sản phẩm Asus ROG Zephyrus G16 2025 GU605 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K+ OLED 240Hz | Moonlight White chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_056",
+        "name": "Asus ROG Zephyrus G16 2025 GU605 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K+ OLED 240Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 68990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 7467 onboard",
+            "screen": "16.0\" 2.5K+(2560x1600) OLED, 240Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070Ti 12GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/asus_rog_zephyrus_g16_g605_2025.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g16-gu605-ultra9-rtx-5070ti-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G16 2025 GU605 Ultra 9 285H RAM 32GB SSD 1TB RTX 5070Ti 16\" 2.5K+ OLED 240Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_057",
+        "name": "Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5080 14\" 3K OLED 120Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 75990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 8000 onboard",
+            "screen": "14\" 3K(280x1800) OLED, 120Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5080 16GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/zephyrus_g14_grey_05_rgb_1.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g14-ga403-ryzen-9-rtx-5080-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5080 14\" 3K OLED 120Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_058",
+        "name": "Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5080 14\" 3K OLED 120Hz | Moonlight White",
+        "brand": "Asus",
+        "price": 75990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 8000 onboard",
+            "screen": "14\" 3K(280x1800) OLED, 120Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5080 16GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/asus_rog_zephyrus_g16_gu605mv_platinum_white_thumbnail-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g14-ga403-ryzen-9-rtx-5080-white/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5080 14\" 3K OLED 120Hz | Moonlight White chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_059",
+        "name": "Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5070Ti 14\" 3K OLED 120Hz | Eclipse Gray",
+        "brand": "Asus",
+        "price": 61990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 8000 onboard",
+            "screen": "14\" 3K(280x1800) OLED, 120Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070 12GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/zephyrus_g14_grey_05_rgb_1-copy.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g14-ga403-ryzen-9-rtx-5070ti-gray/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5070Ti 14\" 3K OLED 120Hz | Eclipse Gray chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_060",
+        "name": "Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5070Ti 14\" 3K OLED 120Hz | Moonlight White",
+        "brand": "Asus",
+        "price": 61990000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "32GB LPDDR5X 8000 onboard",
+            "screen": "14\" 3K(280x1800) OLED, 120Hz",
+            "gpu": "NVIDIA®GeForce® RTX™ 5070Ti 12GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/asus_rog_zephyrus_g16_gu605mv_platinum_white_thumbnail-copy-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/asus-rog-zehyrus-g14-ga403-ryzen-9-rtx-5070ti-white/",
+        "description": "Sản phẩm Asus ROG Zephyrus G14 2025 GA403 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB RTX 5070Ti 14\" 3K OLED 120Hz | Moonlight White chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_061",
+        "name": "ThinkBook 16P Gen 6 IAX 2025 Ultra 7 255HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "ThinkBook",
+        "price": 39800000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 255HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16″, 2.5K (2560x1600) 240Hz",
+            "gpu": "NVIDIA Geforce RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkbook_16p_g6_iax_2025_21r0_1-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16p-gen-6-iax-ultra7-32-rtx-5060-qhd-240hz-03cd/",
+        "description": "Sản phẩm ThinkBook 16P Gen 6 IAX 2025 Ultra 7 255HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_062",
+        "name": "ThinkBook 16P Gen 6 IAX 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz",
+        "brand": "ThinkBook",
+        "price": 45000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16″, 2.5K (2560x1600) 240Hz",
+            "gpu": "NVIDIA Geforce RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16p_g6_iax_2025_21r0_1-copy-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16p-gen-6-iax-ultra9-32-rtx-5060-qhd-240hz-04cd/",
+        "description": "Sản phẩm ThinkBook 16P Gen 6 IAX 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5060 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_063",
+        "name": "ThinkBook 16P Gen 6 IAX 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K 240Hz",
+        "brand": "ThinkBook",
+        "price": 52000000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16″, 2.5K (2560x1600) 240Hz",
+            "gpu": "NVIDIA Geforce RTX 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16p_g6_iax_2025_21r0_1-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16p-gen-6-iax-ultra9-32-rtx-5070-qhd-240hz-01cd/",
+        "description": "Sản phẩm ThinkBook 16P Gen 6 IAX 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 2.5K 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_064",
+        "name": "ThinkBook 16P Gen 6 IAX 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 3.2K 165Hz",
+        "brand": "ThinkBook",
+        "price": 52500000,
+        "currency": "VNĐ",
+        "category": [
+            "dohoa",
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16″, 3.2K (3200x2000) 165Hz",
+            "gpu": "NVIDIA Geforce RTX 5070 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkbook_16p_g6_iax_2025_21r0_1-copy-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16p-gen-6-iax-ultra9-32-rtx-5070-3k-165hz/",
+        "description": "Sản phẩm ThinkBook 16P Gen 6 IAX 2025 Ultra 9 275HX RAM 32GB SSD 1TB RTX 5070 16\" 3.2K 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_065",
+        "name": "Gigabyte AERO X16 1VH93VNC94DH AMD Ryzen™ AI 7 350 RAM 16GB SSD 1TB RTX™ 5060 16\" 2.5K 165Hz Lunar White (Trắng Bạc)",
+        "brand": "Gigabyte",
+        "price": 34890000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 350",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16″, 2.5K (2560x1600), 165Hz",
+            "gpu": "Nvidia Geforce RTX 5060 8GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_aero_x16_(11).webp",
+        "product_url": "https://trungtran.vn/gigabyte-aero-x16-ryzen-7-16-rtx-5060-2k-1vh93vnc94dh-white/",
+        "description": "Sản phẩm Gigabyte AERO X16 1VH93VNC94DH AMD Ryzen™ AI 7 350 RAM 16GB SSD 1TB RTX™ 5060 16\" 2.5K 165Hz Lunar White (Trắng Bạc) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_066",
+        "name": "ASUS TUF Gaming F16 FX607VJ-RL034W Core 5 210H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz",
+        "brand": "ASUS",
+        "price": 21690000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core 5 210H",
+            "ram": "16GB DDR4 3200MHz",
+            "screen": "16\" FHD+ (1920x1200), 300nits",
+            "gpu": "NVIDIA® GeForce RTX™ 3050",
+            "storage": "SSD 512GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ASUS_TUF_Gaming_F16_FX607VJ-RL034W_(6).webp",
+        "product_url": "https://trungtran.vn/asus-tuf-gaming-f16-core-5-210h-16-512-rtx-3050-fhd/",
+        "description": "Sản phẩm ASUS TUF Gaming F16 FX607VJ-RL034W Core 5 210H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_067",
+        "name": "ASUS TUF Gaming F16 FX608JH-RV039W 2025 i5 13450HX RAM 16GB SSD 1TB RTX 5050 16\" FHD+ 100% sRGB 165Hz",
+        "brand": "ASUS",
+        "price": 30590000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 13450HX",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16\" FHD+ (1920x1200), 300nits",
+            "gpu": "NVIDIA® GeForce RTX™ 5050",
+            "storage": "SSD 1TB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_tuf_gaming_f16_02_l.webp",
+        "product_url": "https://trungtran.vn/asus-tuf-gaming-f16-i5-13450hx-16-rtx-5050-fx608jh-rv039w/",
+        "description": "Sản phẩm ASUS TUF Gaming F16 FX608JH-RV039W 2025 i5 13450HX RAM 16GB SSD 1TB RTX 5050 16\" FHD+ 100% sRGB 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_068",
+        "name": "ASUS TUF Gaming F16 FX607VJB-RL151W Core 5 210H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz",
+        "brand": "ASUS",
+        "price": 22990000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core 5 210H",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16\" FHD+ (1920x1200), 300nits",
+            "gpu": "NVIDIA® GeForce RTX™ 3050",
+            "storage": "SSD 512GB"
+        },
+        "stock": 18,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_tuf_gaming_f16_fx607vj-rl034w_6-copy.webp",
+        "product_url": "https://trungtran.vn/asus-tuf-gaming-f16-core-5-210h-16-512-rtx-3050-ddr5/",
+        "description": "Sản phẩm ASUS TUF Gaming F16 FX607VJB-RL151W Core 5 210H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_069",
+        "name": "Gigabyte Gaming A16 GA6H CTHI3VN893SH i7-13620H RAM 16GB SSD 512GB RTX™ 5050 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 29990000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 5050 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_gaming_a16_2023_(10).webp",
+        "product_url": "https://trungtran.vn/gigabyte-gaming-a16-ga6h-i7-rtx-5050-fhd-cthi3vn893sh/",
+        "description": "Sản phẩm Gigabyte Gaming A16 GA6H CTHI3VN893SH i7-13620H RAM 16GB SSD 512GB RTX™ 5050 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_070",
+        "name": "Gigabyte Gaming A16 GA6H CMHH2VN893SH i5-13420H RAM 16GB SSD 512GB RTX™ 4050 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 26390000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 13420H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 4050 6GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_gaming_a16_2023_(10).webp",
+        "product_url": "https://trungtran.vn/gigabyte-gaming-a16-ga6h-i5-rtx-4050-fhd-cmhh2vn893sh/",
+        "description": "Sản phẩm Gigabyte Gaming A16 GA6H CMHH2VN893SH i5-13420H RAM 16GB SSD 512GB RTX™ 4050 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_071",
+        "name": "Gigabyte Gaming A16 GA6H CMHI2VN893SH i7-13620H RAM 16GB SSD 512GB RTX™ 4050 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 27990000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 4050 6GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_gaming_a16_2023_10-copy.webp",
+        "product_url": "https://trungtran.vn/gigabyte-gaming-a16-ga6h-i7-rtx-4050-fhd-cmhi2vn893sh/",
+        "description": "Sản phẩm Gigabyte Gaming A16 GA6H CMHI2VN893SH i7-13620H RAM 16GB SSD 512GB RTX™ 4050 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_072",
+        "name": "ASUS Gaming Vivobook K3605VC-RP431W i5-13420H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz",
+        "brand": "ASUS",
+        "price": 19990000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 13420H",
+            "ram": "16GB (8GB onboard + 8GB) DDR4 3200MHz",
+            "screen": "16\" FHD+ (1920x1200) IPS, 300nits",
+            "gpu": "NVIDIA Geforce RTX 3050 4GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_16x_k3605z_k3605v_product_photo_2k_indie_black_05_non-fingerprint_non-backlit.webp",
+        "product_url": "https://trungtran.vn/asus-gaming-vivobook-k3605vc-rp431w-i5-rtx-3050-fhd/",
+        "description": "Sản phẩm ASUS Gaming Vivobook K3605VC-RP431W i5-13420H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_073",
+        "name": "ASUS Gaming Vivobook 16X K3605VC-RP491W i7-13620H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz",
+        "brand": "ASUS",
+        "price": 20490000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB (8GB onboard + 8GB) DDR4 3200MHz",
+            "screen": "16\" FHD+ (1920x1200) IPS, 300nits",
+            "gpu": "NVIDIA Geforce RTX 3050 4GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_16x_k3605z_k3605v_product_photo_2k_indie_black_05_non-fingerprint_non-backlit.webp",
+        "product_url": "https://trungtran.vn/asus-gaming-vivobook-k3605vc-rp491w-i7-rtx-3050-fhd/",
+        "description": "Sản phẩm ASUS Gaming Vivobook 16X K3605VC-RP491W i7-13620H RAM 16GB SSD 512GB RTX 3050 16\" FHD+ 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_074",
+        "name": "ASUS TUF Gaming F16 FX608JMR-RV048W 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5060 16\" FHD+ 100% sRGB 165Hz",
+        "brand": "ASUS",
+        "price": 36790000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 14650HX",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16\" FHD+ (1920x1200), 300nits",
+            "gpu": "NVIDIA® GeForce RTX™ 5060",
+            "storage": "SSD 1TB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_tuf_gaming_f16_02_l.webp",
+        "product_url": "https://trungtran.vn/asus-tuf-gaming-f16-i7-14650hx-16-rtx-5060-fx608jmr-rv048w/",
+        "description": "Sản phẩm ASUS TUF Gaming F16 FX608JMR-RV048W 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5060 16\" FHD+ 100% sRGB 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_075",
+        "name": "Gigabyte G6 MF-H2VN853KH i7-13620H RAM 16GB SSD 512GB RTX 4050 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 22990000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13700H",
+            "ram": "16GB DDR5 4800MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 4050 6GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/gigabyte_g6_mf_-_h2vn853kh(1).webp",
+        "product_url": "https://trungtran.vn/gigabyte-g6-i7-13620h-rtx-4050-fhd-mf-h2vn853kh/",
+        "description": "Sản phẩm Gigabyte G6 MF-H2VN853KH i7-13620H RAM 16GB SSD 512GB RTX 4050 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_076",
+        "name": "Gigabyte G6 MF-H2VN854KH i7-13620H RAM 16GB SSD 1TB RTX 4050 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 24590000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13700H",
+            "ram": "16GB DDR5 4800MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 4050 6GB GDDR6",
+            "storage": "SSD 1TB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/gigabyte_g6_mf_-_h2vn853kh1-copy.webp",
+        "product_url": "https://trungtran.vn/gigabyte-g6-i7-13620h-1tb-rtx-4050-fhd-mf-h2vn854kh/",
+        "description": "Sản phẩm Gigabyte G6 MF-H2VN854KH i7-13620H RAM 16GB SSD 1TB RTX 4050 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_077",
+        "name": "ASUS TUF Gaming F16 FX608JHR-RV037W 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5050 16\" FHD+ 100% sRGB 165Hz",
+        "brand": "ASUS",
+        "price": 33790000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 14650HX",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16\" FHD+ (1920x1200), 300nits",
+            "gpu": "NVIDIA® GeForce RTX™ 5050",
+            "storage": "SSD 1TB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_tuf_gaming_f16_02_l.webp",
+        "product_url": "https://trungtran.vn/asus-tuf-gaming-f16-i7-14650hx-16-rtx-5050-fx608jhr-rv037w/",
+        "description": "Sản phẩm ASUS TUF Gaming F16 FX608JHR-RV037W 2025 i7 14650HX RAM 16GB SSD 1TB RTX 5050 16\" FHD+ 100% sRGB 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_078",
+        "name": "Gigabyte G6 MF-72VN853KH i7 13700H RAM 16GB SSD 512GB RTX 4050 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 23890000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13700H",
+            "ram": "16GB DDR5 4800MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 4050 6GB GDDR6",
+            "storage": "SSD 512GB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/gigabyte_g6_mf_2024_(1).webp",
+        "product_url": "https://trungtran.vn/gigabyte-g6-i7-rtx-4050-fhd-mf-72vn853kh/",
+        "description": "Sản phẩm Gigabyte G6 MF-72VN853KH i7 13700H RAM 16GB SSD 512GB RTX 4050 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_079",
+        "name": "Gigabyte AORUS MASTER 16 AM6H BYHC5VNE64SH Ultra 9 275HX RAM 32GB SSD 1TB RTX™ 5080 16\" 2.5K OLED 240Hz",
+        "brand": "Gigabyte",
+        "price": 79990000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core Utlra 9 275HX",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16″, 2.5K (2560x1600) OLED, 240Hz",
+            "gpu": "Nvidia Geforce RTX 5080 16GB GDDR7",
+            "storage": "SSD 1TB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_aorus_master_16_(5)(1).webp",
+        "product_url": "https://trungtran.vn/gigabyte-aorus-master-16-ultra-9-rtx-5080-qhd-byhc5vne64sh/",
+        "description": "Sản phẩm Gigabyte AORUS MASTER 16 AM6H BYHC5VNE64SH Ultra 9 275HX RAM 32GB SSD 1TB RTX™ 5080 16\" 2.5K OLED 240Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_080",
+        "name": "Gigabyte Gaming A16 GA6H CVHI3VN893SH i7-13620H RAM 16GB SSD 512GB RTX™ 5060 16\" FHD+ 165Hz",
+        "brand": "Gigabyte",
+        "price": 32790000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "16″, FHD+ (1920x1200) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 5060 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_gaming_a16_2023_10-copy-copy.webp",
+        "product_url": "https://trungtran.vn/gigabyte-gaming-a16-ga6h-i7-rtx-5060-fhd-cvhi3vn893sh/",
+        "description": "Sản phẩm Gigabyte Gaming A16 GA6H CVHI3VN893SH i7-13620H RAM 16GB SSD 512GB RTX™ 5060 16\" FHD+ 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_081",
+        "name": "Gigabyte Gaming A16 GA6H CVHI3VNC93SH i7-13620H RAM 16GB SSD 512GB RTX™ 5060 16\" 2.5K 165Hz",
+        "brand": "Gigabyte",
+        "price": 33690000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "16″, 2.5K+ (2560x1600) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 5060 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_gaming_a16_2023_10-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/gigabyte-gaming-a16-ga6h-i7-rtx-5060-qhd-cvhi3vnc93sh/",
+        "description": "Sản phẩm Gigabyte Gaming A16 GA6H CVHI3VNC93SH i7-13620H RAM 16GB SSD 512GB RTX™ 5060 16\" 2.5K 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_082",
+        "name": "Gigabyte Gaming A16 GA6H CWHI3VNC94SH i7-13620H RAM 16GB SSD 512GB RTX™ 5070 16\" 2.5K 165Hz",
+        "brand": "Gigabyte",
+        "price": 38890000,
+        "currency": "VNĐ",
+        "category": [
+            "gaming"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "16″, 2.5K+ (2560x1600) IPS, 165Hz",
+            "gpu": "Nvidia Geforce RTX 5070 8GB GDDR7",
+            "storage": "SSD 512GB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/gigabyte_gaming_a16_2023_10-copy-copy-copy-copy.webp",
+        "product_url": "https://trungtran.vn/gigabyte-gaming-a16-ga6h-i7-rtx-5070-qhd-cwhi3vnc94sh/",
+        "description": "Sản phẩm Gigabyte Gaming A16 GA6H CWHI3VNC94SH i7-13620H RAM 16GB SSD 512GB RTX™ 5070 16\" 2.5K 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_083",
+        "name": "Lenovo IdeaPad 5 Pro 14 GT 2025 Ultra 5 225H RAM 32GB SSD 1TB 14\" 2.8K OLED 120Hz (XiaoXin Pro 14 GT AI IAH10)",
+        "brand": "Lenovo",
+        "price": 24490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 5 225H",
+            "ram": "32GB LPDDR5x 8533 onboard",
+            "screen": "14″,2.8K (2880x1800) OLED",
+            "gpu": "Intel® Arc™ 130T (onboard)",
+            "storage": "SSD 1TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ideapad_5_pro_2025_xiaoxin_pro_14_gt_83jk (2).webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-5-pro-ultra-5-225h-32-oled-83jk/",
+        "description": "Sản phẩm Lenovo IdeaPad 5 Pro 14 GT 2025 Ultra 5 225H RAM 32GB SSD 1TB 14\" 2.8K OLED 120Hz (XiaoXin Pro 14 GT AI IAH10) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_084",
+        "name": "Thinkbook 14 G7+ 2025 AMD Ryzen 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K - Nhập Khẩu Full VAT",
+        "brand": "Thinkbook",
+        "price": 25490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 260",
+            "ram": "32GB LPDDR5x 7500MHz, onboard",
+            "screen": "14.5″ 3K (3072×1920), 120hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g7_plus_akp_21th_(7).webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g7-plus-ryzen-7-h-260-32-3k-120hz-fv/",
+        "description": "Sản phẩm Thinkbook 14 G7+ 2025 AMD Ryzen 7 H 260 RAM 32GB SSD 1TB 14.5\" 3K - Nhập Khẩu Full VAT chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_085",
+        "name": "Lenovo IdeaPad Pro 5 16AGP11 2026 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED 120Hz (XiaoXin Pro 16 GT AGP11)",
+        "brand": "Lenovo",
+        "price": 29990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 H 465",
+            "ram": "32GB LPDDR5x 8533 onboard",
+            "screen": "16″,2.8K (2880x1800) OLED",
+            "gpu": "AMD Radeon™ 880M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/16_gt_2026_thumbnail.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-pro-5-16agp11-ryzen-ai-9-465-32-amd-oled-83sj/",
+        "description": "Sản phẩm Lenovo IdeaPad Pro 5 16AGP11 2026 Ryzen AI 9 H 465 RAM 32GB SSD 1TB 16\" 2.8K OLED 120Hz (XiaoXin Pro 16 GT AGP11) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_086",
+        "name": "ASUS ExpertBook P1 P1503CVA-C5H16-63WS Core 5 210H 16GB 512GB 15.6\" FHD IPS 63Wh - Tặng Office 2024",
+        "brand": "ASUS",
+        "price": 20890000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5 210H",
+            "ram": "16GB DDR5 SO-DIMM",
+            "screen": "15.6\", FHD (1920x1080), 60Hz",
+            "gpu": "Intel® Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-core-5-16-512-fhd-p1503cva-c5h16-63ws/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-C5H16-63WS Core 5 210H 16GB 512GB 15.6\" FHD IPS 63Wh - Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_087",
+        "name": "Lenovo Ideapad Slim 3 14ARP10 83K6005VVN Ryzen 5 7535HS RAM 16GB SSD 512GB 14'' FHD+",
+        "brand": "Lenovo",
+        "price": 17790000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 5 7535HS",
+            "ram": "16GB DDR5 4800Mhz",
+            "screen": "14'' FHD+ (1920x1200)",
+            "gpu": "AMD Radeon™ 660M Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 18,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/1.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-3-ryzen-5-7535hs-16-512-fhd-83k6005vvn/",
+        "description": "Sản phẩm Lenovo Ideapad Slim 3 14ARP10 83K6005VVN Ryzen 5 7535HS RAM 16GB SSD 512GB 14'' FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_088",
+        "name": "Lenovo Ideapad Slim 3 16ARP10 83K80016VN Ryzen 5 7533HS RAM 16GB SSD 512GB 16\" FHD+",
+        "brand": "Lenovo",
+        "price": 18290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "CPU",
+            "ram": "16GB DDR5 4800",
+            "screen": "16\" FHD+(1920x1200)",
+            "gpu": "AMD Radeon™ 660M Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/unnamed.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-3-ryzen-5-7533hs-16-512-83k80016vn/",
+        "description": "Sản phẩm Lenovo Ideapad Slim 3 16ARP10 83K80016VN Ryzen 5 7533HS RAM 16GB SSD 512GB 16\" FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_089",
+        "name": "ASUS Fearless Pro 16 2026 Ultra 7 356H RAM 32GB SSD 1TB 16'' 2.5K OLED 165Hz (Asus Vivobook 16 S5650)",
+        "brand": "ASUS",
+        "price": 30990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 356H",
+            "ram": "32GB LPDDR5x 7500MHz Onboard",
+            "screen": "16\" 2.5K+ (2560x1600), OLED",
+            "gpu": "Intel® Graphics",
+            "storage": "SSD 1TB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_fearless_pro_16_ultra_x7_(10).webp",
+        "product_url": "https://trungtran.vn/asus-fearless-pro-16-ultra-7-356h-32-oled-vivobook-s5650a/",
+        "description": "Sản phẩm ASUS Fearless Pro 16 2026 Ultra 7 356H RAM 32GB SSD 1TB 16'' 2.5K OLED 165Hz (Asus Vivobook 16 S5650) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_090",
+        "name": "Lenovo IdeaPad Slim 5 16 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB FHD+ 60Hz (XiaoXin 16 AHP10R)",
+        "brand": "Lenovo",
+        "price": 17190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "16GB DDR5",
+            "screen": "16″, FHD+ (1920x1200)IPS, 60Hz",
+            "gpu": "AMD Radeon 780M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/xiaoxin_16ahp10_(5).webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-16-2025-amd-ryzen7-fhd-xiaoxin-16ahp10/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 16 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB FHD+ 60Hz (XiaoXin 16 AHP10R) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_091",
+        "name": "Lenovo IdeaPad Slim 5 16 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB FHD+ 120Hz (XiaoXin 16 AHP10R)",
+        "brand": "Lenovo",
+        "price": 18190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "16GB DDR5",
+            "screen": "16″, FHD+ (1920x1200)IPS,120Hz",
+            "gpu": "AMD Radeon 780M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/xiaoxin_16ahp10_5-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-16-amd-ryzen7-fhd-120-xiaoxin-16ahp10r/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 16 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB FHD+ 120Hz (XiaoXin 16 AHP10R) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_092",
+        "name": "Lenovo IdeaPad Slim 5 14 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB FHD+ 120Hz (XiaoXin 14 AHP10R)",
+        "brand": "Lenovo",
+        "price": 17190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "16GB DDR5",
+            "screen": "14″, FHD+ (1920x1200)IPS, 60Hz",
+            "gpu": "AMD Radeon 780M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/xiaoxin_14ahp10_2025_(10).webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-14-2025-amd-ryzen7-fhd-xiaoxin-14ahp10/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 14 2025 Ryzen 7 H 255 RAM 16GB SSD 512GB FHD+ 120Hz (XiaoXin 14 AHP10R) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_093",
+        "name": "ASUS Fearless Pro 16 2026 Ryzen 9 8945H RAM 32GB SSD 1TB 16'' 2.5K OLED 165Hz (Asus Vivobook 16 M5650)",
+        "brand": "ASUS",
+        "price": 29490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 8945H",
+            "ram": "32GB LPDDR5x Onboard",
+            "screen": "16\" 2.5K (2560x1600), OLED",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thumbnail_asus_fearless_pro_16_2026_r9_8945h.webp",
+        "product_url": "https://trungtran.vn/asus-fearless-pro-16-ryzen-9-8945h-32-oled-vivobook-m5650u/",
+        "description": "Sản phẩm ASUS Fearless Pro 16 2026 Ryzen 9 8945H RAM 32GB SSD 1TB 16'' 2.5K OLED 165Hz (Asus Vivobook 16 M5650) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_094",
+        "name": "Lenovo IdeaPad Slim 3 15IRH10 83K1000GVN 2025 i5 13420H RAM 24GB SSD 512GB 15.3\" FHD+ 60Hz",
+        "brand": "Lenovo",
+        "price": 18390000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 13420H",
+            "ram": "24GB DDR5 4800MHz (nâng cấp được)",
+            "screen": "15.3\", FHD+(1920x1200) IPS, 300nits",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/IdeaPad_Slim_3_15IRH10_CT2_06.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-3-15irh10-i5-24-fhd-83k1000gvn/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 3 15IRH10 83K1000GVN 2025 i5 13420H RAM 24GB SSD 512GB 15.3\" FHD+ 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_095",
+        "name": "Asus Zenbook 14 Oled UX3405 2025 Ultra 9 285H RAM 32GB SSD 1TB 14\" 3K OLED 120Hz Foggy Silver (Bạc Ánh Kim)",
+        "brand": "Asus",
+        "price": 28490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 285H",
+            "ram": "32GB LPDDR5X",
+            "screen": "14″ 3K (2880 x 1800) Asus Lumina OLED",
+            "gpu": "Intel® Arc™ Graphics",
+            "storage": "SSD 1TB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/zenbook_14_oled_ux3405_7-copy.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-14-oled-ux3405-ultra-9-285h-32-foggy-silver/",
+        "description": "Sản phẩm Asus Zenbook 14 Oled UX3405 2025 Ultra 9 285H RAM 32GB SSD 1TB 14\" 3K OLED 120Hz Foggy Silver (Bạc Ánh Kim) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_096",
+        "name": "Lenovo IdeaPad Slim 3 16IRH10 83K20001VN 2025 i7-13620H RAM 16GB SSD 512GB 16\" FHD+",
+        "brand": "Lenovo",
+        "price": 20290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core i7 13620H",
+            "ram": "16GB DDR5 4800MHz",
+            "screen": "16″, FHD+ (1920x1200)IPS, 300nits",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ideapad_slim_3_16irh10-copy.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-3-16irh10-i7-16-fhd-83k20001vn/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 3 16IRH10 83K20001VN 2025 i7-13620H RAM 16GB SSD 512GB 16\" FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_097",
+        "name": "ASUS ExpertBook P5 P5405CSA-NZ0016W Ultra 5 226V RAM 16GB SSD 512GB 14\" 2.5K 100% sRGB 144Hz",
+        "brand": "ASUS",
+        "price": 27190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 5 226V",
+            "ram": "16GB LPDDR5X Onboard",
+            "screen": "14\", 2.5K+ (2560 x 1600), 144Hz",
+            "gpu": "Intel® Arc™ 130V GPU onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p5-ultra5-16-512-2k/",
+        "description": "Sản phẩm ASUS ExpertBook P5 P5405CSA-NZ0016W Ultra 5 226V RAM 16GB SSD 512GB 14\" 2.5K 100% sRGB 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_098",
+        "name": "Lenovo IdeaPad Slim 5 15ARP10 83J3002SVN AMD Ryzen 7 7735HS RAM 32GB SSD 512GB 15.1\" 2.5K OLED 165Hz",
+        "brand": "Lenovo",
+        "price": 25990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 7735HS",
+            "ram": "32GB LPDDR5x 6400MHz",
+            "screen": "15.1\" 2.5K (2560x1600) OLED",
+            "gpu": "AMD Radeon™ 680M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/IdeaPad-Slim-5-OLED-15ARP105.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-15arp10-ryzen7-32-512-oled-83j3002svn/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 15ARP10 83J3002SVN AMD Ryzen 7 7735HS RAM 32GB SSD 512GB 15.1\" 2.5K OLED 165Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_099",
+        "name": "Asus Vivobook 15 X1502VA-BQ986WS i7 13620H RAM 16GB SSD 512GB 15.6\" FHD 60Hz | Tặng Office 2024",
+        "brand": "Asus",
+        "price": 19990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13620H",
+            "ram": "16GB DDR4 3200MHz",
+            "screen": "15.6\", FHD (1920 x 1080), 250nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_15_x1502v_m1502y_product_photo_1s_cool_silver_black_kb_05_1.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-15-i7-13620h-16-512-intel-fhd-x1502va-bq986ws/",
+        "description": "Sản phẩm Asus Vivobook 15 X1502VA-BQ986WS i7 13620H RAM 16GB SSD 512GB 15.6\" FHD 60Hz | Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_100",
+        "name": "Macbook Air 13 M2 2022 8 Core CPU 8 Core GPU RAM 16GB SSD 256GB 13.6\" 2K Liquid Retina (Midnight | Starlight)",
+        "brand": "Macbook",
+        "price": 19700000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Apple M2 8 core",
+            "ram": "16GB",
+            "screen": "13.6″ 2K (2560X1664) IPS, 500nits",
+            "gpu": "Apple M2 GPU 8 core",
+            "storage": "SSD 256GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/macbook-air-midnight-thumbnail.webp",
+        "product_url": "https://trungtran.vn/macbook-air-13-m2-16-256-2k-liquid-retina/",
+        "description": "Sản phẩm Macbook Air 13 M2 2022 8 Core CPU 8 Core GPU RAM 16GB SSD 256GB 13.6\" 2K Liquid Retina (Midnight | Starlight) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_101",
+        "name": "Lenovo Ideapad Slim 3 14IRH10 83K00009VN i7 13620H RAM 24GB SSD 512GB 14'' FHD+",
+        "brand": "Lenovo",
+        "price": 22590000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Core i7 13620H",
+            "ram": "24GB DDR5-4800",
+            "screen": "14'' (1920x1200)",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/1.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-3-i7-13620h-24gb-512gb-fhd-83k00009vn/",
+        "description": "Sản phẩm Lenovo Ideapad Slim 3 14IRH10 83K00009VN i7 13620H RAM 24GB SSD 512GB 14'' FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_102",
+        "name": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Star White)",
+        "brand": "Thinkbook",
+        "price": 25490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "32GB LPDDR5x 7500MHz, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g8_plus_white_(1).webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g8-plus-ryzen-7-h-255-32-3k/",
+        "description": "Sản phẩm Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Star White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_103",
+        "name": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White)",
+        "brand": "Thinkbook",
+        "price": 26490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "32GB LPDDR5x 7500MHz, onboard",
+            "screen": "16″ 3.2K (3200 × 2000), 165Hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g8_plus_white_(2).webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g8-plus-ryzen-7-h-255-32-3k-165hz/",
+        "description": "Sản phẩm Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_104",
+        "name": "Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Lunar Gray)",
+        "brand": "Thinkbook",
+        "price": 26490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "32GB LPDDR5x 7500MHz, onboard",
+            "screen": "16″ 3.2K (3200 × 2000), 165Hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g8_plus__grey_thumbnail.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g8-plus-ryzen-7-h-255-32-3k-165hz-gray/",
+        "description": "Sản phẩm Thinkbook 16 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Lunar Gray) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_105",
+        "name": "Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Lunar Grey)",
+        "brand": "Thinkbook",
+        "price": 25490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "32GB LPDDR5x 7500MHz, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g8_plus_grey_(1).webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g8-plus-ryzen-7-h-255-32-3k-grey/",
+        "description": "Sản phẩm Thinkbook 14 G8+ 2026 AMD Ryzen 7 H 255 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Lunar Grey) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_106",
+        "name": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Lunar Grey)",
+        "brand": "Thinkbook",
+        "price": 36490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 470",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 890M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g8_plus_grey_(1).webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g8-plus-ryzen-9-hx-470-32-3k-grey/",
+        "description": "Sản phẩm Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Lunar Grey) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_107",
+        "name": "ASUS Fearless Pro 16 2026 Ultra X7 358H RAM 32GB SSD 1TB 16'' 2.5K OLED 165Hz (Asus Vivobook 16 S5650)",
+        "brand": "ASUS",
+        "price": 34890000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra X7 358H",
+            "ram": "32GB LPDDR5x Onboard",
+            "screen": "16\" 2.5K+ (2560x1600), OLED",
+            "gpu": "Intel® Arc™ B390 GPU",
+            "storage": "SSD 1TB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_fearless_pro_16_ultra_x7_(10).webp",
+        "product_url": "https://trungtran.vn/asus-fearless-pro-16-ultra-x7-358h-32-oled-vivobook-s5650a/",
+        "description": "Sản phẩm ASUS Fearless Pro 16 2026 Ultra X7 358H RAM 32GB SSD 1TB 16'' 2.5K OLED 165Hz (Asus Vivobook 16 S5650) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_108",
+        "name": "ASUS Fearless Pro 14 2026 Ultra 7 356H RAM 32GB SSD 1TB 14'' 2.8K OLED 120Hz (Asus Vivobook 14 S5450)",
+        "brand": "ASUS",
+        "price": 29990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 356H",
+            "ram": "32GB LPDDR5x 7500MHz Onboard",
+            "screen": "14\" 2.8K (2880x1800), OLED",
+            "gpu": "Intel® Graphics",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_fearless_pro_14.webp",
+        "product_url": "https://trungtran.vn/asus-fearless-pro-14-ultra-7-356h-32-oled-vivobook-s5450a/",
+        "description": "Sản phẩm ASUS Fearless Pro 14 2026 Ultra 7 356H RAM 32GB SSD 1TB 14'' 2.8K OLED 120Hz (Asus Vivobook 14 S5450) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_109",
+        "name": "Thinkbook 14 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Star White)",
+        "brand": "Thinkbook",
+        "price": 34690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 H 465",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 880M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g8_plus_white_1-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g8-plus-ryzen-9-h-465-32-3k-white/",
+        "description": "Sản phẩm Thinkbook 14 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Star White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_110",
+        "name": "Thinkbook 14 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Lunar Grey)",
+        "brand": "Thinkbook",
+        "price": 34690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 H465",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 880M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g8_plus_grey_1-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g8-plus-ryzen-9-h-465-32-3k-grey/",
+        "description": "Sản phẩm Thinkbook 14 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Lunar Grey) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_111",
+        "name": "Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Star White)",
+        "brand": "Thinkbook",
+        "price": 36490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 470",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 890M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g8_plus_white_(1).webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g8-plus-ryzen-9-hx-470-32-3k-white/",
+        "description": "Sản phẩm Thinkbook 14 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 14.5\" 3K 120Hz (Star White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_112",
+        "name": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Lunar Grey)",
+        "brand": "Thinkbook",
+        "price": 36490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 470",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 890M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g8_plus__grey_thumbnail(1).webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g8-plus-ryzen-9-hx-470-32-3k-grey/",
+        "description": "Sản phẩm Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Lunar Grey) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_113",
+        "name": "Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White)",
+        "brand": "Thinkbook",
+        "price": 36490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 470",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "14.5″ 3K (3072 × 1920), 120Hz",
+            "gpu": "AMD Radeon™ 890M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g8_plus_white_2-copy-1.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g8-plus-ryzen-9-hx-470-32-3k-white/",
+        "description": "Sản phẩm Thinkbook 16 G8+ 2026 AMD Ryzen AI 9 HX 470 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_114",
+        "name": "Thinkbook 16 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White)",
+        "brand": "Thinkbook",
+        "price": 34690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 H 465",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "16″ 3K (3200 × 12000), 165Hz",
+            "gpu": "AMD Radeon™ 880M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g8_plus_white_2-copy-1-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g8-plus-ryzen-9-h-465-32-3k-white/",
+        "description": "Sản phẩm Thinkbook 16 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Star White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_115",
+        "name": "Thinkbook 16 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Lunar Grey)",
+        "brand": "Thinkbook",
+        "price": 34690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 9 H 465",
+            "ram": "32GB LPDDR5x 8533MT/s, onboard",
+            "screen": "16″ 3K (3200 × 1200), 165Hz",
+            "gpu": "AMD Radeon™ 880M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g8_plus__grey_thumbnail1-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g8-plus-ryzen-9-h-465-32-3k-grey/",
+        "description": "Sản phẩm Thinkbook 16 G8+ 2026 AMD Ryzen 9 H 465 RAM 32GB SSD 1TB 16\" 3.2K 165Hz (Lunar Grey) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_116",
+        "name": "Asus Vivobook 14 i3 1005G1 RAM 4GB SSD 128GB FHD",
+        "brand": "Asus",
+        "price": 8900000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i3-1005G1",
+            "ram": "8 GB",
+            "screen": "14\", FHD (1920 x 1080) WVA",
+            "gpu": "Intel® Core™ UHD dành cho Bộ xử lý Intel® thế hệ thứ 10",
+            "storage": "SSD 128GB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn//upload_images/images/products/asus-vivobook-series/resized/pngresize.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-14-i3-nhieu-cau-hinh/",
+        "description": "Sản phẩm Asus Vivobook 14 i3 1005G1 RAM 4GB SSD 128GB FHD chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_117",
+        "name": "Asus Zenbook S 14 Ultra 7 258V RAM 32GB SSD 1TB 14\" 3K OLED (Artic White)",
+        "brand": "Asus",
+        "price": 33490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 258V 32GB",
+            "ram": "32GB LPDDR5X",
+            "screen": "14″ 3K (2880 x 1800) Asus Lumina OLED",
+            "gpu": "Intel® Arc™ Graphics 140V",
+            "storage": "SSD 1TB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_zenbook_s14_white.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-s14-ux5406-ultra-7-32-oled-white/",
+        "description": "Sản phẩm Asus Zenbook S 14 Ultra 7 258V RAM 32GB SSD 1TB 14\" 3K OLED (Artic White) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_118",
+        "name": "Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 3K OLED",
+        "brand": "Asus",
+        "price": 36700000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 9 HX 370",
+            "ram": "32GB LPDDR5X",
+            "screen": "16″ 3K (2880 x 1800)OLED",
+            "gpu": "AMD Radeon 890M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 7,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_zenbook_s16_um5606 (4).webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-s16-um5606-amd-ryzen-ai-9-32-oled/",
+        "description": "Sản phẩm Asus Zenbook S 16 Ryzen AI 9 HX 370 RAM 32GB SSD 1TB 16\" 3K OLED chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_119",
+        "name": "Asus Zenbook S 14 Ultra 7 258V RAM 32GB SSD 1TB 14\" 3K OLED (Zumaia Grey)",
+        "brand": "Asus",
+        "price": 33990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 258V 32GB",
+            "ram": "32GB LPDDR5X",
+            "screen": "14″ 3K (2880 x 1800) Asus Lumina OLED",
+            "gpu": "Intel® Arc™ Graphics 140V",
+            "storage": "SSD 1TB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_zenbook_s14_ux5406.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-s14-ux5406-ultra-7-32-oled-grey/",
+        "description": "Sản phẩm Asus Zenbook S 14 Ultra 7 258V RAM 32GB SSD 1TB 14\" 3K OLED (Zumaia Grey) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_120",
+        "name": "ASUS ExpertBook P1 P1403CVA-i716-63WS i7-13620H 16GB 512GB 14\" FHD IPS 63Wh - Tặng Office 2024",
+        "brand": "ASUS",
+        "price": 20290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13620H",
+            "ram": "16GB DDR5 SO-DIMM",
+            "screen": "14\", FHD (1920x1080), IPS",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i7-13620h-16-512-fhd-p1403cva-i716-63ws/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-i716-63WS i7-13620H 16GB 512GB 14\" FHD IPS 63Wh - Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_121",
+        "name": "Asus Vivobook 15 OLED A1505VA-MA466W i5 13500H RAM 16GB SSD 512GB 15.6\" 2.8K OLED 100% DCI-P3 120Hz",
+        "brand": "Asus",
+        "price": 17190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13500H",
+            "ram": "16GB DDR4 3200MHz onboard",
+            "screen": "15.6\", 2.8K (2880 x 1620), 600nits",
+            "gpu": "Intel Iris Xe Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_15_oled_x1505v_product_photo_1s_cool_silver_black_keyboard_05_3.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-15-i5-13500h-16-512-oled-a1505va-ma466w/",
+        "description": "Sản phẩm Asus Vivobook 15 OLED A1505VA-MA466W i5 13500H RAM 16GB SSD 512GB 15.6\" 2.8K OLED 100% DCI-P3 120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_122",
+        "name": "Lenovo IdeaPad Slim 5 2025 Ryzen 7 H 255 RAM 24GB SSD 1TB 2.8K OLED 120Hz (Lenovo XiaoXin Pro 14c AHP10R)",
+        "brand": "Lenovo",
+        "price": 21990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 7 H 255",
+            "ram": "24GB DDR5 4800MHz",
+            "screen": "14″,2.8K (2880x1800)OLED",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ideapad_slim_5_2025_xiaoxin_pro_14c_akp10_(4).webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-ryzen7-h-255-24-oled-ahp10r-fv/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 2025 Ryzen 7 H 255 RAM 24GB SSD 1TB 2.8K OLED 120Hz (Lenovo XiaoXin Pro 14c AHP10R) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_123",
+        "name": "Thinkpad E14 Gen 7 21SX002QVA Ultra 5 225U RAM 16GB SSD 512GB 14\" FHD+ IPS",
+        "brand": "Thinkpad",
+        "price": 22590000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 5 225U",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "14\" FHD+ (1920x1200), 300nits",
+            "gpu": "Intel",
+            "storage": "SSD 512GB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ThinkPad_E14_Gen_7_Intel_CT1_03_-_thumb.webp",
+        "product_url": "https://trungtran.vn/thinkpad-e14-gen-7-ultra-5-16-512-fhd-21sx002qva/",
+        "description": "Sản phẩm Thinkpad E14 Gen 7 21SX002QVA Ultra 5 225U RAM 16GB SSD 512GB 14\" FHD+ IPS chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_124",
+        "name": "Thinkpad E16 Gen 3 21SR002JVA Ultra 5 225U RAM 16GB SSD 512GB 16\" FHD+ IPS",
+        "brand": "Thinkpad",
+        "price": 22490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 5 225U",
+            "ram": "16GB DDR5 5600MHz",
+            "screen": "16\" FHD+ (1920x1200), 300nits",
+            "gpu": "Intel",
+            "storage": "SSD 512GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ThinkPad_E16_Gen_3_Intel_CT1_03_thumb.webp",
+        "product_url": "https://trungtran.vn/thinkpad-e16-gen-3-ultra-5-16-512-fhd-21sr002jva/",
+        "description": "Sản phẩm Thinkpad E16 Gen 3 21SR002JVA Ultra 5 225U RAM 16GB SSD 512GB 16\" FHD+ IPS chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_125",
+        "name": "ASUS ExpertBook P1 P1503CVA-C5H16-50W Core 5 210H 16GB 512GB 15.6\" FHD 50Wh",
+        "brand": "ASUS",
+        "price": 19990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5 210H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "15.6\", FHD (1920x1080), WVA",
+            "gpu": "Intel® Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-15-core5-16-512-fhd-p1503cva-c5h16-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-C5H16-50W Core 5 210H 16GB 512GB 15.6\" FHD 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_126",
+        "name": "ASUS ExpertBook P1 P1503CVA-C3U08-50W Core 3 100U 8GB 512GB 15.6\" FHD 50Wh",
+        "brand": "ASUS",
+        "price": 14390000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 3 100U",
+            "ram": "8GB DDR5 5200MHz",
+            "screen": "15.6\", FHD (1920x1080), WVA",
+            "gpu": "Intel® Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-15-core3-8-512-fhd-p1503cva-c3u08-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-C3U08-50W Core 3 100U 8GB 512GB 15.6\" FHD 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_127",
+        "name": "ASUS ExpertBook P1 P1503CVA-C5H08-50W Core 5 210H 8GB 512GB 15.6\" FHD 50Wh",
+        "brand": "ASUS",
+        "price": 17690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5 210H",
+            "ram": "8GB DDR5 5200MHz",
+            "screen": "15.6\", FHD (1920x1080), WVA",
+            "gpu": "Intel® Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-15-core5-8-512-fhd-p1503cva-c5h08-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-C5H08-50W Core 5 210H 8GB 512GB 15.6\" FHD 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_128",
+        "name": "ASUS Vivobook 14 M1405NAQ-LY011W Ryzen 7 170 RAM 16GB SSD 512GB 14'' FHD+",
+        "brand": "ASUS",
+        "price": 16890000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 170",
+            "ram": "16GB DDR5",
+            "screen": "14'' (1920x1200) FHD+ IPS",
+            "gpu": "AMD Radeon Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ssss_1_97.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-14-ryzen-7-170-16-fhd-m1405naq-ly011w/",
+        "description": "Sản phẩm ASUS Vivobook 14 M1405NAQ-LY011W Ryzen 7 170 RAM 16GB SSD 512GB 14'' FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_129",
+        "name": "ASUS Vivobook 14 M1405NAQ-LY010W Ryzen 5 150 RAM 16GB SSD 512GB 14' FHD+",
+        "brand": "ASUS",
+        "price": 15690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 5 150",
+            "ram": "16GB DDR5",
+            "screen": "14'' (1920x1200) FHD+ IPS",
+            "gpu": "AMD Radeon Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thumb(1).webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-14-ryzen-5-16-512-fhd-m1405naq-ly010w/",
+        "description": "Sản phẩm ASUS Vivobook 14 M1405NAQ-LY010W Ryzen 5 150 RAM 16GB SSD 512GB 14' FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_130",
+        "name": "Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 256GB 13.6\" 2K Liquid Retina",
+        "brand": "Macbook",
+        "price": 24990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Apple M4 10 core",
+            "ram": "16GB",
+            "screen": "13.6″ 2K (2560X1664) IPS, 500nits",
+            "gpu": "Apple M4 GPU 8 core",
+            "storage": "SSD 256GB"
+        },
+        "stock": 14,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/MACBOOK_AIR_13_M4_MIDNIGHT.webp",
+        "product_url": "https://trungtran.vn/macbook-air-13-m4-2025/",
+        "description": "Sản phẩm Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 256GB 13.6\" 2K Liquid Retina chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_131",
+        "name": "Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 512GB 13.6\" 2K Liquid Retina",
+        "brand": "Macbook",
+        "price": 28690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Apple M4 10 core",
+            "ram": "16GB",
+            "screen": "13.6″ 2K (2560X1664) IPS, 500nits",
+            "gpu": "Apple M4 GPU 8 core",
+            "storage": "SSD 512GB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/macbook_air_13_m4_starlight.webp",
+        "product_url": "https://trungtran.vn/macbook-air-13-m4-2025-16-512-retina/",
+        "description": "Sản phẩm Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 512GB 13.6\" 2K Liquid Retina chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_132",
+        "name": "Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 1TB 13.6\" 2K Liquid Retina",
+        "brand": "Macbook",
+        "price": 36990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Apple M4 10 core",
+            "ram": "16GB",
+            "screen": "13.6″ 2K (2560X1664) IPS, 500nits",
+            "gpu": "Apple M4 GPU 8 core",
+            "storage": "SSD 1TB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/macbook_air_13_m4_silver.webp",
+        "product_url": "https://trungtran.vn/macbook-air-13-m4-2025-16-1tb-retina/",
+        "description": "Sản phẩm Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 1TB 13.6\" 2K Liquid Retina chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_133",
+        "name": "Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 2TB 13.6\" 2K Liquid Retina",
+        "brand": "Macbook",
+        "price": 46990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Apple M4 10 core",
+            "ram": "16GB",
+            "screen": "13.6″ 2K (2560X1664) IPS, 500nits",
+            "gpu": "Apple M4 GPU 8 core",
+            "storage": "SSD 2TB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/mba13-m4-skyblue-gallery1-202503-1280x984.jpeg",
+        "product_url": "https://trungtran.vn/macbook-air-13-m4-2025-16-2tb-retina/",
+        "description": "Sản phẩm Macbook Air 13 M4 2025 10 Core CPU 8 Core GPU RAM 16GB SSD 2TB 13.6\" 2K Liquid Retina chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_134",
+        "name": "Dell Latitude 5411 i5 10400H RAM 16GB SSD 256GB FHD",
+        "brand": "Dell",
+        "price": 9500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 10400H",
+            "ram": "Từ 16GB DDR4 2933MHz",
+            "screen": "14\" FHD (1920 x 1080), 300nits",
+            "gpu": "Đồ họa Intel® UHD 630",
+            "storage": "SSD 256GB"
+        },
+        "stock": 10,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/laptop_latitude_14_5411_gallery_3-copy.webp",
+        "product_url": "https://trungtran.vn/dell-latitude-5411-i5-intel/",
+        "description": "Sản phẩm Dell Latitude 5411 i5 10400H RAM 16GB SSD 256GB FHD chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_135",
+        "name": "Lenovo IdeaPad Slim 3 14IRH10 83K00008VN 2025 i5 13420H RAM 16GB SSD 512GB 14\" FHD+",
+        "brand": "Lenovo",
+        "price": 16990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AIntel Core i5 13420H",
+            "ram": "16GB DDR5 4800MHz (nâng cấp được)",
+            "screen": "14″, FHD+ (1920x1200)IPS, 300nits",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/IdeaPad_Slim_3_14IRH10_CT2_08(1).webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-3-14irh10-i5-fhd-83k00008vn/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 3 14IRH10 83K00008VN 2025 i5 13420H RAM 16GB SSD 512GB 14\" FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_136",
+        "name": "Lenovo Lecoo Pro 14 2025 Ryzen 7 H 255 RAM 32GB SSD 1TB 14\" 2.8K 120Hz",
+        "brand": "Lenovo",
+        "price": 19490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "32GB DDR5 5600Mhz",
+            "screen": "14\" 2.8K(2880x1800), 120Hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/lenovo_lecoo_pro_14_2025_(6).webp",
+        "product_url": "https://trungtran.vn/lenovo-lecoo-pro-14-ryzen-7-32-2k-870040688-lk/",
+        "description": "Sản phẩm Lenovo Lecoo Pro 14 2025 Ryzen 7 H 255 RAM 32GB SSD 1TB 14\" 2.8K 120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_137",
+        "name": "Thinkbook 16 G7+ 2025 AMD Ryzen 7 H 255 RAM 24GB SSD 512GB 16\" 2.5K 100%sRGB  120Hz",
+        "brand": "Thinkbook",
+        "price": 22690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "24GB LPDDR5x 7500MHz, onboard",
+            "screen": "16″ 2.5K (2560x1600), 120Hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_16_g7_plus_2025_21tj_ai_7_h-9-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-16-g7-plus-ryzen-7-h-255-24-qhd-120hz/",
+        "description": "Sản phẩm Thinkbook 16 G7+ 2025 AMD Ryzen 7 H 255 RAM 24GB SSD 512GB 16\" 2.5K 100%sRGB  120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_138",
+        "name": "ASUS ExpertBook P1 P1503CVA-i308256-63W i3 1315U RAM 8GB SSD 256GB 15.6\" FHD IPS 63Wh",
+        "brand": "ASUS",
+        "price": 12490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i3 1315U",
+            "ram": "8GB DDR5 SO-DIMM",
+            "screen": "15.6\", FHD (1920x1080), IPS",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 256GB"
+        },
+        "stock": 10,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i3-1315u-8-256-fhd-p1503cva-i308256-63w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-i308256-63W i3 1315U RAM 8GB SSD 256GB 15.6\" FHD IPS 63Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_139",
+        "name": "Lenovo Lecoo 14 N155C 2025 i5 13420H RAM 16GB SSD 1TB 14\" 2.2K 60Hz",
+        "brand": "Lenovo",
+        "price": 15500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 13420H",
+            "ram": "16GB LPDDR5 4800Mhz",
+            "screen": "14\" 2.2K(2240x1400), 60Hz",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 1TB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/LECOO_14_N155C.webp",
+        "product_url": "https://trungtran.vn/lenovo-lecoo-14-n155c-i5-13420h-16-2k-60hz/",
+        "description": "Sản phẩm Lenovo Lecoo 14 N155C 2025 i5 13420H RAM 16GB SSD 1TB 14\" 2.2K 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_140",
+        "name": "ASUS ExpertBook P1 P1503CVA-i516-63WS i5-13420H 16GB 512GB 15.6\" FHD IPS 63Wh - Tặng Office 2024",
+        "brand": "ASUS",
+        "price": 17690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "16GB DDR5 SO-DIMM",
+            "screen": "15.6\", FHD (1920x1080), 60Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i5-13420h-16-512-fhd-p1503cva-i516-63ws/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-i516-63WS i5-13420H 16GB 512GB 15.6\" FHD IPS 63Wh - Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_141",
+        "name": "Asus Vivobook 14 X1404VA-EB509W i3 1315U RAM 8GB SSD 512GB 14\" FHD 60Hz",
+        "brand": "Asus",
+        "price": 11490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i3 1315U",
+            "ram": "8GB DDR4 3200MHz",
+            "screen": "14\", FHD (1920 x 1080), 250nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_14_x1404va_product_photo_1s_cool_silver_05_fingerprint_backlit.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-14-i3-1315u-8-512-intel-fhd-x1404va-eb509w/",
+        "description": "Sản phẩm Asus Vivobook 14 X1404VA-EB509W i3 1315U RAM 8GB SSD 512GB 14\" FHD 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_142",
+        "name": "Asus Vivobook 15 X1502VA-BQ886W i7 13620H RAM 16GB SSD 512GB 15.6\" FHD 60Hz",
+        "brand": "Asus",
+        "price": 17290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13620H",
+            "ram": "16GB DDR4 3200MHz",
+            "screen": "15.6\", FHD (1920 x 1080), 250nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 20,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_15_x1502v_m1502y_product_photo_1s_cool_silver_black_kb_05_1.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-15-i7-13620h-16-512-intel-fhd-x1502va-bq886w/",
+        "description": "Sản phẩm Asus Vivobook 15 X1502VA-BQ886W i7 13620H RAM 16GB SSD 512GB 15.6\" FHD 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_143",
+        "name": "ASUS ExpertBook P1 P1403CVA-i308256-63W i3 1315U RAM 8GB SSD 256GB 14\" FHD IPS 63Wh",
+        "brand": "ASUS",
+        "price": 12490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i3 1315U",
+            "ram": "8GB DDR5 SO-DIMM",
+            "screen": "14\", FHD (1920x1080), IPS",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 256GB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i3-1315u-8-256-fhd-p1403cva-i308256-63w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-i308256-63W i3 1315U RAM 8GB SSD 256GB 14\" FHD IPS 63Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_144",
+        "name": "Asus Vivobook S16 S3607VA-RP056WS i7 13620H RAM 16GB SSD 512GB 16\" FHD+ 60Hz",
+        "brand": "Asus",
+        "price": 21000000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core i7 13620H",
+            "ram": "16GB DDR5",
+            "screen": "16\", FHD+ (1920 x 1200), 300nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_vivobook_s16_s3607ca_va_product_photo_2s_cool_silver_03_2400x2400.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-s16-i7-13620h-16-512-intel-fhd-s3607va-rp056ws/",
+        "description": "Sản phẩm Asus Vivobook S16 S3607VA-RP056WS i7 13620H RAM 16GB SSD 512GB 16\" FHD+ 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_145",
+        "name": "Asus Vivobook S14 S3407VA-LY146W Core 5 210H RAM 16GB SSD 512GB 14\" FHD+ 60Hz",
+        "brand": "Asus",
+        "price": 18290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5 210H",
+            "ram": "16GB DDR4 3200MHz",
+            "screen": "14\", FHD+ (1920 x 1200), 300nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_vivobook_s14_s3407ca_va_product_photo_2s_cool_silver_03_2400x2400.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-s14-core5-210h-16-512-intel-fhd-s3407va-ly146w/",
+        "description": "Sản phẩm Asus Vivobook S14 S3407VA-LY146W Core 5 210H RAM 16GB SSD 512GB 14\" FHD+ 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_146",
+        "name": "Lenovo IdeaPad Slim 5 14AKP10 83HX001JVN Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14\" FHD+ OLED 60Hz",
+        "brand": "Lenovo",
+        "price": 25790000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 7 H 350",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "14\" FHD+ (1920x1200) OLED",
+            "gpu": "AMD Radeon™ 860M",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/IdeaPad_Slim_5_14AKP10_CT1_thumbnail.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-14akp10-ryzen7-32-fhd-oled-83hx001jvn/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 14AKP10 83HX001JVN Ryzen AI 7 H 350 RAM 32GB SSD 1TB 14\" FHD+ OLED 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_147",
+        "name": "Lenovo Lecoo Air 16 N175L 2025 Ultra 5 125H RAM 32GB SSD 1TB 16\" 2.5K 120Hz",
+        "brand": "Lenovo",
+        "price": 20990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 5 125H",
+            "ram": "32GB LPDDR5 6400Mhz",
+            "screen": "16\" 2.5K(2560x1600), 120Hz",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 1TB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/Lenovo-Lecoo-Air-16-1.webp",
+        "product_url": "https://trungtran.vn/lenovo-lecoo-air-16-n175l-ultra-5-125h-32-2k-120hz/",
+        "description": "Sản phẩm Lenovo Lecoo Air 16 N175L 2025 Ultra 5 125H RAM 32GB SSD 1TB 16\" 2.5K 120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_148",
+        "name": "ASUS ExpertBook P1 P1403CVA-C5H16-63WS Core 5 210H 16GB 512GB 14\" FHD 63Wh - Tặng Office 2024",
+        "brand": "ASUS",
+        "price": 21290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5 210H",
+            "ram": "16GB DDR5 5200MHz",
+            "screen": "14\", FHD (1920x1080), WVA",
+            "gpu": "Intel® Graphics onboard",
+            "storage": "512GB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-core5-16-512-fhd-p1403cva-c5h16-63ws/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-C5H16-63WS Core 5 210H 16GB 512GB 14\" FHD 63Wh - Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_149",
+        "name": "ASUS Vivobook 14 X1404VA-EB355W CORE 7-150U RAM 16GB SSD 512GB 14'' FHD+",
+        "brand": "ASUS",
+        "price": 19290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core 7 150U",
+            "ram": "16GB DDR5",
+            "screen": "14''(1920x1080) FHD+ IPS",
+            "gpu": "Intel Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thumb.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-14-core-7-150u-16-512-fhd-x1404va-eb355w/",
+        "description": "Sản phẩm ASUS Vivobook 14 X1404VA-EB355W CORE 7-150U RAM 16GB SSD 512GB 14'' FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_150",
+        "name": "ASUS ExpertBook P1 P1403CVA-C3U08-50W Core 3 100U RAM 8GB SSD 512GB 14'' FHD",
+        "brand": "ASUS",
+        "price": 14390000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core 3 100U",
+            "ram": "8GB DDR5",
+            "screen": "14'' FHD (1920 x 1080)",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-core-3-100u-8-512-fhd-p1403cva-c3u08-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-C3U08-50W Core 3 100U RAM 8GB SSD 512GB 14'' FHD chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_151",
+        "name": "Lenovo Ideapad Slim 5 15ARP10 83J3001DVN Ryzen 7 7735HS RAM 16GB SSD 512GB 15.1'' OLED 165hz",
+        "brand": "Lenovo",
+        "price": 22990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 7735HS",
+            "ram": "16GB LPDDR5x-6400",
+            "screen": "15.1'' (2560x1600) OLED",
+            "gpu": "AMD Radeon™ 680M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/lt242-6_a1d2516985074eb2997e273ee34ed9cb.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-ryzen-7-7735hs-16-512-oled-83j3001dvn/",
+        "description": "Sản phẩm Lenovo Ideapad Slim 5 15ARP10 83J3001DVN Ryzen 7 7735HS RAM 16GB SSD 512GB 15.1'' OLED 165hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_152",
+        "name": "Asus Vivobook 14 X1405VA-LY623W i5 13420H RAM 16GB SSD 512GB 14\" FHD+ 60Hz",
+        "brand": "Asus",
+        "price": 15290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "16GB DDR4 3200MHz",
+            "screen": "14\", FHD+ (1920 x 1200), 300nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 1,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_14_x1405vap_product_photo_1s_cool_silver_05_fingerprint_1.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-14-i5-13420h-16-512-intel-fhd-x1405va-ly623w/",
+        "description": "Sản phẩm Asus Vivobook 14 X1405VA-LY623W i5 13420H RAM 16GB SSD 512GB 14\" FHD+ 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_153",
+        "name": "ASUS Vivobook S14 M3407HA-SF480W Ryzen 5 220 RAM 16GB SSD 512GB 14'' FHD+ OLED",
+        "brand": "ASUS",
+        "price": 21990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 5 220",
+            "ram": "16GB DDR5",
+            "screen": "14'' FHD+ (1920x1200) OLED",
+            "gpu": "AMD Radeon Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/54939_m3407ha.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-s14-ryzen-5-220-16-512-fhd-oled-m3407ha-sf480w/",
+        "description": "Sản phẩm ASUS Vivobook S14 M3407HA-SF480W Ryzen 5 220 RAM 16GB SSD 512GB 14'' FHD+ OLED chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_154",
+        "name": "Lenovo IdeaPad 5 Pro 16 GT 2025 Ultra 5 225H RAM 32GB SSD 1TB 16\" 2.8K OLED 120Hz (XiaoXin Pro 16 GT AI IAH10)",
+        "brand": "Lenovo",
+        "price": 25290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 5 225H",
+            "ram": "32GB LPDDR5x 8533 onboard",
+            "screen": "16″,2.8K (2880x1800) OLED",
+            "gpu": "Intel® Arc™ 130T (onboard)",
+            "storage": "SSD 1TB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/ideapad_5_pro_16_2025_(1).webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-5-pro-16-ultra-5-225h-32-oled-83jm/",
+        "description": "Sản phẩm Lenovo IdeaPad 5 Pro 16 GT 2025 Ultra 5 225H RAM 32GB SSD 1TB 16\" 2.8K OLED 120Hz (XiaoXin Pro 16 GT AI IAH10) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_155",
+        "name": "Thinkbook X AI 2025 Ultra 9 285H RAM 32GB SSD 1TB 13.5\" 2.8K 120Hz",
+        "brand": "Thinkbook",
+        "price": 33500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 285H",
+            "ram": "32GB LPDDR5x 8400MHz",
+            "screen": "13.5″, 2.8K (2880x1920) IPS, 500nits",
+            "gpu": "Intel® Arc™ 140T",
+            "storage": "SSD 1TB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook__x_ai_2025-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-x-ai-g2-iah-ultra-9-32-intel-03cd/",
+        "description": "Sản phẩm Thinkbook X AI 2025 Ultra 9 285H RAM 32GB SSD 1TB 13.5\" 2.8K 120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_156",
+        "name": "Thinkbook 14 G7+ 2025 AMD Ryzen 7 H 255 RAM 24GB SSD 512GB 14.5\" 2.5K 90Hz",
+        "brand": "Thinkbook",
+        "price": 20490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "24GB LPDDR5x 7500MHz, onboard",
+            "screen": "14.5″ 2.5K (2560x1600), 90hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "SSD 512GB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g7_plus_akp_21th_7-copy.webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g7-plus-ryzen-7-h-255-24-qhd-90hz/",
+        "description": "Sản phẩm Thinkbook 14 G7+ 2025 AMD Ryzen 7 H 255 RAM 24GB SSD 512GB 14.5\" 2.5K 90Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_157",
+        "name": "Asus Vivobook 15 X1502VA-BQ885W i5 13420H RAM 16GB SSD 512GB 15.6\" FHD 60Hz",
+        "brand": "Asus",
+        "price": 15190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "16GB DDR4 3200MHz",
+            "screen": "15.6\", FHD (1920 x 1080), 250nits",
+            "gpu": "Intel® UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/vivobook_15_x1502v_m1502y_product_photo_1s_cool_silver_black_kb_05_1.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-15-i5-13420h-16-512-intel-fhd-x1502va-bq885w/",
+        "description": "Sản phẩm Asus Vivobook 15 X1502VA-BQ885W i5 13420H RAM 16GB SSD 512GB 15.6\" FHD 60Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_158",
+        "name": "Thinkbook 14 G7+ 2025 AMD Ryzen 7 H 255 RAM 24GB 512GB 14.5\" 2.5K 90Hz",
+        "brand": "Thinkbook",
+        "price": 20490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen 7 H 255",
+            "ram": "24GB LPDDR5x 7500MHz, onboard",
+            "screen": "14.5″ 2.5K (2560x1600), 90hz",
+            "gpu": "AMD Radeon™ 780M",
+            "storage": "512GB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/thinkbook_14_g7_plus_akp_21th_(7).webp",
+        "product_url": "https://trungtran.vn/thinkbook-14-g7-plus-ryzen-7-h-255-24-qhd-90hz-fv/",
+        "description": "Sản phẩm Thinkbook 14 G7+ 2025 AMD Ryzen 7 H 255 RAM 24GB 512GB 14.5\" 2.5K 90Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_159",
+        "name": "Asus ExpertBook P3 P3405CVA-NZ0027W i5-13420H RAM 16GB SSD 512GB 14\" 2.5K 144Hz",
+        "brand": "Asus",
+        "price": 19690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "16GB DDR5 DDR5",
+            "screen": "14\", 2.5K (2560x1600), 144Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_expertbook_p3605cva_(1).webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p3-i5-13420h-16-512-14-2k-p3405cva-nz0027w/",
+        "description": "Sản phẩm Asus ExpertBook P3 P3405CVA-NZ0027W i5-13420H RAM 16GB SSD 512GB 14\" 2.5K 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_160",
+        "name": "ASUS ExpertBook P1 P1403CVA-i508-50W i5-13420H RAM 8GB SSD 512GB 14\" FHD IPS 50Wh",
+        "brand": "ASUS",
+        "price": 15290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "8GB DDR5 SO-DIMM",
+            "screen": "14\", FHD (1920x1080), IPS",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i5-13420h-8-512-fhd-p1403cva-i508-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-i508-50W i5-13420H RAM 8GB SSD 512GB 14\" FHD IPS 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_161",
+        "name": "ASUS Vivobook S16 M3607GA-SH034W Ryzen AI 7 445 RAM 16GB SSD 512GB 16'' FHD+ OLED",
+        "brand": "ASUS",
+        "price": 26790000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen™ AI 7 445",
+            "ram": "16GB Onboard DDR5",
+            "screen": "16\" FHD+ (1920x1200) OLED",
+            "gpu": "AMD Radeon™ Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/M3607GA-SH034W.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-s16-ryzen-ai-7-16-512-oled-m3607ga-sh034w/",
+        "description": "Sản phẩm ASUS Vivobook S16 M3607GA-SH034W Ryzen AI 7 445 RAM 16GB SSD 512GB 16'' FHD+ OLED chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_162",
+        "name": "ASUS Vivobook S14 M3407GA-SF030W Ryzen AI 7 445 RAM 16GB SSD 512GB 14'' FHD+ OLED",
+        "brand": "ASUS",
+        "price": 25790000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen™ AI 7 445",
+            "ram": "16GB Onboard DDR5",
+            "screen": "14\" FHD+ (1920x1200) OLED",
+            "gpu": "AMD Radeon™ Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 19,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/M3407GA-SF030W.webp",
+        "product_url": "https://trungtran.vn/asus-vivobook-s14-ryzen-ai-7-16-512-oled-m3407ga-sf030w/",
+        "description": "Sản phẩm ASUS Vivobook S14 M3407GA-SF030W Ryzen AI 7 445 RAM 16GB SSD 512GB 14'' FHD+ OLED chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_163",
+        "name": "ASUS Zenbook 14 UM3406GA-QD075WS Ryzen AI 7 445 RAM 16GB SSD 512GB 14'' FHD+ OLED",
+        "brand": "ASUS",
+        "price": 28990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Ryzen AI 7 445",
+            "ram": "16GB LPDDR5X on board",
+            "screen": "14'' FHD+ (1920x1200) OLED",
+            "gpu": "AMD Radeon™ Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/UM3406GA-QD075WS.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-14-ryzen-ai-7-16-512-oled-um3406ga-qd075ws/",
+        "description": "Sản phẩm ASUS Zenbook 14 UM3406GA-QD075WS Ryzen AI 7 445 RAM 16GB SSD 512GB 14'' FHD+ OLED chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_164",
+        "name": "ASUS Zenbook 14 UM3406GA-QD073WS Ryzen 7 AI 445 RAM 32GB SSD 1TB 14'' FHD+ OLED",
+        "brand": "ASUS",
+        "price": 36990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen™ AI 7 445",
+            "ram": "32GB LPDDR5X on board",
+            "screen": "14\" FHD+ (1920x1200) OLED",
+            "gpu": "AMD Radeon™ Graphics",
+            "storage": "SSD 1TB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/UM3406GA-QD073WS.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-14-ryzen-7-ai-445-32-1tb-oled-um3406ga-qd073ws/",
+        "description": "Sản phẩm ASUS Zenbook 14 UM3406GA-QD073WS Ryzen 7 AI 445 RAM 32GB SSD 1TB 14'' FHD+ OLED chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_165",
+        "name": "ThinkPad X9-15 2025 Ultra7-258V RAM 32GB SSD 1TB 15.3\" 2.8K OLED Touch 120Hz (Aura Edition)",
+        "brand": "ThinkPad",
+        "price": 45000000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 258V 32GB",
+            "ram": "32GB LPDDR5X",
+            "screen": "15.3″ 2.8K (2880 x 1800) OLED, 500nits",
+            "gpu": "Intel® Arc™ Graphics 140V",
+            "storage": "SSD 1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/ThinkPad_X9_15_Gen_1_CT1_03.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x9-15-gen-1-ultra-7-258v-32-oled-intel-21q6/",
+        "description": "Sản phẩm ThinkPad X9-15 2025 Ultra7-258V RAM 32GB SSD 1TB 15.3\" 2.8K OLED Touch 120Hz (Aura Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_166",
+        "name": "ThinkPad X9-14 2025 Ultra7-258V RAM 32GB SSD 1TB 2.8K OLED Touch 120Hz (Aura Edition)",
+        "brand": "ThinkPad",
+        "price": 43000000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 258V 32GB",
+            "ram": "32GB LPDDR5X",
+            "screen": "14″ 2.8K (2880 x 1800) OLED, 500nits",
+            "gpu": "Intel® Arc™ Graphics 140V",
+            "storage": "SSD 1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/ThinkPad_X9_14_Gen_1_CT1_06.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x9-14-gen-1-ultra-7-258v-32-oled-intel-21qa/",
+        "description": "Sản phẩm ThinkPad X9-14 2025 Ultra7-258V RAM 32GB SSD 1TB 2.8K OLED Touch 120Hz (Aura Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_167",
+        "name": "ThinkPad X9-14 2025 Ultra 9-288V RAM 32GB SSD 2TB 2.8K OLED Touch 120Hz (Aura Edition)",
+        "brand": "ThinkPad",
+        "price": 53500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 288V",
+            "ram": "32GB LPDDR5X 8533MHz",
+            "screen": "14″ 2.8K (2880 x 1800) OLED, 500nits",
+            "gpu": "Intel® Arc™ Graphics 140V",
+            "storage": "SSD 2TB"
+        },
+        "stock": 3,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkpad_x9_14_gen_1_ct1_06-copy.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x9-14-gen-1-ultra-9-288v-32-oled-intel-21qa/",
+        "description": "Sản phẩm ThinkPad X9-14 2025 Ultra 9-288V RAM 32GB SSD 2TB 2.8K OLED Touch 120Hz (Aura Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_168",
+        "name": "ThinkPad X9-15 2025 Ultra9-288V RAM 32GB SSD 2TB 15.3\" 2.8K OLED Touch 120Hz (Aura Edition)",
+        "brand": "ThinkPad",
+        "price": 55500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 288V",
+            "ram": "32GB LPDDR5X",
+            "screen": "15.3″ 2.8K (2880 x 1800) OLED, 500nits",
+            "gpu": "Intel® Arc™ Graphics 140V",
+            "storage": "SSD 2TB"
+        },
+        "stock": 16,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkpad_x9_15_gen_1_ct1_03-copy.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x9-15-gen-1-ultra-9-288v-32-oled-intel-21q6/",
+        "description": "Sản phẩm ThinkPad X9-15 2025 Ultra9-288V RAM 32GB SSD 2TB 15.3\" 2.8K OLED Touch 120Hz (Aura Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_169",
+        "name": "ASUS ExpertBook P3 P3605CVA-PL0042W i5-13420H RAM 16GB SSD 512GB 16\" 2.5K 144Hz",
+        "brand": "ASUS",
+        "price": 20490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "16GB DDR5 DDR5 5200MHz",
+            "screen": "16\", 2.5K (2560x1600), 144Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 10,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_expertbook_p3605cva_(1).webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p3-i5-13420h-16-512-2k-p3605cva-pl0042w/",
+        "description": "Sản phẩm ASUS ExpertBook P3 P3605CVA-PL0042W i5-13420H RAM 16GB SSD 512GB 16\" 2.5K 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_170",
+        "name": "ASUS ExpertBook P3 P3605CVA-PL0047W i7-13620H RAM 16GB SSD 512GB 16\" 2.5K 144Hz",
+        "brand": "ASUS",
+        "price": 23290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13620H",
+            "ram": "16GB DDR5 DDR5 5200MHz",
+            "screen": "16\", 2.5K (2560x1600), 144Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_expertbook_p3605cva_(1).webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p3-i7-13620h-16-512-2k-p3605cva-pl0047w/",
+        "description": "Sản phẩm ASUS ExpertBook P3 P3605CVA-PL0047W i7-13620H RAM 16GB SSD 512GB 16\" 2.5K 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_171",
+        "name": "Asus ExpertBook P3 P3405CVA-NZ0077W i7-13620H RAM 16GB SSD 512GB 14\" 2.5K 144Hz",
+        "brand": "Asus",
+        "price": 22590000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13620H",
+            "ram": "16GB DDR5 DDR5",
+            "screen": "14\", 2.5K (2560x1600), 144Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/asus_expertbook_p3605cva_(1).webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p3-i7-13620h-16-512-14-2k-p3405cva-nz0077w/",
+        "description": "Sản phẩm Asus ExpertBook P3 P3405CVA-NZ0077W i7-13620H RAM 16GB SSD 512GB 14\" 2.5K 144Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_172",
+        "name": "ASUS ExpertBook P5 P5405CSA-NZ0442WS Ultra 7 258V 32GB 1TB 14\" 2.5K 144Hz - Tặng Office 2024",
+        "brand": "ASUS",
+        "price": 35000000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 258V",
+            "ram": "32GB LPDDR5X Onboard",
+            "screen": "14\", 2.5K+ (2560 x 1600), 144Hz",
+            "gpu": "Intel® Arc™ 140V GPU onboard",
+            "storage": "1TB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p5_p5405csa_product_photo_misty_grey_05.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p5-ultra7-32-1t-2k-p5405csa-nz0442ws/",
+        "description": "Sản phẩm ASUS ExpertBook P5 P5405CSA-NZ0442WS Ultra 7 258V 32GB 1TB 14\" 2.5K 144Hz - Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_173",
+        "name": "ASUS ExpertBook P5 P5405CSA-NZ0450WS Ultra 5 226V 16GB 512GB 14\" 2.5K 100% sRGB 144Hz - Tặng Office 2024",
+        "brand": "ASUS",
+        "price": 28790000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 5 266V",
+            "ram": "16GB LPDDR5X Onboard",
+            "screen": "14\", 2.5K+ (2560 x 1600), 144Hz",
+            "gpu": "Intel® Arc™ 130V GPU onboard",
+            "storage": "512GB"
+        },
+        "stock": 5,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p5_p5405csa_product_photo_misty_grey_05.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p5-ultra5-16-512-2k-p5405csa-nz0450ws/",
+        "description": "Sản phẩm ASUS ExpertBook P5 P5405CSA-NZ0450WS Ultra 5 226V 16GB 512GB 14\" 2.5K 100% sRGB 144Hz - Tặng Office 2024 chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_174",
+        "name": "Macbook Pro 14 M2 Pro 10 Core RAM 16GB SSD 512GB 16 GPU Liquid Retina",
+        "brand": "Macbook",
+        "price": 28900000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Apple M2 10 core",
+            "ram": "16GB",
+            "screen": "14.2″ 3K Liquid Retina XDR (3024x1964)",
+            "gpu": "Apple M2 GPU 16 core",
+            "storage": "SSD 512GB"
+        },
+        "stock": 17,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/macbook_pro_14m2.webp",
+        "product_url": "https://trungtran.vn/macbook-pro-14-m2-10-core-16-512/",
+        "description": "Sản phẩm Macbook Pro 14 M2 Pro 10 Core RAM 16GB SSD 512GB 16 GPU Liquid Retina chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_175",
+        "name": "HP ZBook X G1i 16 2025 Ultra 7 255H RAM 32GB SSD 1TB 16\" 2.5K 120Hz",
+        "brand": "HP",
+        "price": 29490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 255H",
+            "ram": "32GB DDR5 5600MHz",
+            "screen": "16\" 2.5K+ (2560x1600), 120Hz",
+            "gpu": "Intel® Arc™ 140T GPU (onboard)",
+            "storage": "SSD 1TB"
+        },
+        "stock": 2,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/hp_zbook_x_g1i_16_2025_(8).webp",
+        "product_url": "https://trungtran.vn/hp-zbook-x-g1i-16-ultra-7-32-intel-qhd/",
+        "description": "Sản phẩm HP ZBook X G1i 16 2025 Ultra 7 255H RAM 32GB SSD 1TB 16\" 2.5K 120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_176",
+        "name": "Asus Zenbook 14 UM3406KA-PP590WS Ryzen AI 7 350 32GB 1TB 14\" 3K OLED 120Hz Jade Black OFFICE",
+        "brand": "Asus",
+        "price": 29390000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen AI 7 350",
+            "ram": "32GB LPDDR5X 7500MHz",
+            "screen": "14″ 3K (2880 x 1800) Asus Lumina OLED",
+            "gpu": "AMD Radeon™ Graphics",
+            "storage": "1TB"
+        },
+        "stock": 6,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/zenbook_14_um3406ka_product_photo_jade_black_2k_product_photo_basic_copilot_01_3.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-14-oled-um3406-ryzen-7-350-32-3k-oled-black/",
+        "description": "Sản phẩm Asus Zenbook 14 UM3406KA-PP590WS Ryzen AI 7 350 32GB 1TB 14\" 3K OLED 120Hz Jade Black OFFICE chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_177",
+        "name": "HP Pavilion X360 14m i3 1125G4 RAM 8GB SSD 256GB 14\" FHD IPS Touch",
+        "brand": "HP",
+        "price": 12500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core i3-1125G4",
+            "ram": "8 GB",
+            "screen": "14″, FHD (1920*1080), touch",
+            "gpu": "Đồ họa Intel® Core™ UHD",
+            "storage": "SSD 256GB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn//upload_images/images/products/hp-pavilion/resized/hp-pavilion-x360-14m-chinh-dien.webp",
+        "product_url": "https://trungtran.vn/hp-pavilion-x360-14m-nhieu-cau-hinh/",
+        "description": "Sản phẩm HP Pavilion X360 14m i3 1125G4 RAM 8GB SSD 256GB 14\" FHD IPS Touch chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_178",
+        "name": "Asus Zenbook 14 Oled UX3405 2025 Ultra 9 285H RAM 32GB SSD 1TB 14\" 3K OLED 120Hz Ponder Blue (Xanh lam trầm)",
+        "brand": "Asus",
+        "price": 28490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 285H",
+            "ram": "32GB LPDDR5X",
+            "screen": "14″ 3K (2880 x 1800) Asus Lumina OLED",
+            "gpu": "Intel® Arc™ 140T GPU",
+            "storage": "SSD 1TB"
+        },
+        "stock": 18,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/zenbook_14_ux3405ca_product_4_2.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-14-oled-ux3405-ultra-9-285h-32-ponder-blue/",
+        "description": "Sản phẩm Asus Zenbook 14 Oled UX3405 2025 Ultra 9 285H RAM 32GB SSD 1TB 14\" 3K OLED 120Hz Ponder Blue (Xanh lam trầm) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_179",
+        "name": "Thinkbook X AI 2025 Ultra 9 285H RAM 32GB SSD 1TB 13.5\" 2.8K Touch 120Hz",
+        "brand": "Thinkbook",
+        "price": 34090000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 285H",
+            "ram": "32GB LPDDR5x 8400MHz",
+            "screen": "13.5″, 2.8K (2880x1920) IPS, Touch",
+            "gpu": "Intel® Arc™ 140T",
+            "storage": "SSD 1TB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkbook_x_ai_2025_ultra_touch_magicbay_(8).webp",
+        "product_url": "https://trungtran.vn/thinkbook-x-ai-g2-iah-ultra-9-32-intel-touch-00cd/",
+        "description": "Sản phẩm Thinkbook X AI 2025 Ultra 9 285H RAM 32GB SSD 1TB 13.5\" 2.8K Touch 120Hz chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_180",
+        "name": "Thinkbook X AI 2025 Ultra 9 285H RAM 32GB SSD 1TB 13.5\" 2.8K 120Hz (Stainless Magnesium Limited Edition)",
+        "brand": "Thinkbook",
+        "price": 36990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 9 285H",
+            "ram": "32GB LPDDR5x 8400MHz",
+            "screen": "13.5″, 2.8K (2880x1920) IPS, 500nits",
+            "gpu": "Intel® Arc™ 140T",
+            "storage": "SSD 1TB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkbook_x_Ai_2025_u9_limited_edition_(10).webp",
+        "product_url": "https://trungtran.vn/thinkbook-x-ai-g2-iah-ultra-9-32-intel-limited-edition-05cd/",
+        "description": "Sản phẩm Thinkbook X AI 2025 Ultra 9 285H RAM 32GB SSD 1TB 13.5\" 2.8K 120Hz (Stainless Magnesium Limited Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_181",
+        "name": "Thinkpad X1 Carbon Gen 13 Ultra 7 258V RAM 32GB SSD 1TB 14\" 2.8K OLED 120Hz 4G LTE (Aura Edition)",
+        "brand": "Thinkpad",
+        "price": 53500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 258V",
+            "ram": "32GB LPDDR5X 8533MHz",
+            "screen": "14\" 2.8K OLED (2880 x 1800), 400nits",
+            "gpu": "Intel",
+            "storage": "SSD 1TB"
+        },
+        "stock": 10,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/thinkpad_x1_carbon_gen_13_ct1_09-copy.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x1-carbon-gen-13-ultra-7-32-intel-oled-4g-lte-aura/",
+        "description": "Sản phẩm Thinkpad X1 Carbon Gen 13 Ultra 7 258V RAM 32GB SSD 1TB 14\" 2.8K OLED 120Hz 4G LTE (Aura Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_182",
+        "name": "Asus Zenbook 14 Oled Ultra 7 255H RAM 32GB SSD 1TB 14\" 3K OLED 120Hz TOUCH Ponder Blue (Xanh lam trầm)",
+        "brand": "Asus",
+        "price": 31490000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core Ultra 7 255H",
+            "ram": "32GB LPDDR5X",
+            "screen": "14″ 3K (2880 x 1800) Asus Lumina OLED",
+            "gpu": "Intel® Arc™ GPU",
+            "storage": "SSD 1TB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/zenbook_14_ux3405ca_product_4_2.webp",
+        "product_url": "https://trungtran.vn/asus-zenbook-14-oled-ultra-7-255h-32-oled-touch-ponder-blue/",
+        "description": "Sản phẩm Asus Zenbook 14 Oled Ultra 7 255H RAM 32GB SSD 1TB 14\" 3K OLED 120Hz TOUCH Ponder Blue (Xanh lam trầm) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_183",
+        "name": "ASUS ExpertBook P1 P1503CVA-i308256-50W i3 1315U RAM 8GB SSD 256GB 15.6\" FHD IPS 60Hz 50Wh",
+        "brand": "ASUS",
+        "price": 12190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i3 1315U",
+            "ram": "8GB DDR5 SO-DIMM",
+            "screen": "15.6\", FHD (1920x1080), 60Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 256GB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i3-1315u-8-256-fhd-p1503cva-i308256-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-i308256-50W i3 1315U RAM 8GB SSD 256GB 15.6\" FHD IPS 60Hz 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_184",
+        "name": "ASUS ExpertBook P1 P1503CVA-i508-50W i5-13420H RAM 8GB SSD 512GB 15.6\" FHD IPS 60Hz 50Wh",
+        "brand": "ASUS",
+        "price": 15290000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i5 13420H",
+            "ram": "8GB DDR5 SO-DIMM",
+            "screen": "15.6\", FHD (1920x1080), 60Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 11,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i5-13420h-8-512-fhd-p1503cva-i508-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-i508-50W i5-13420H RAM 8GB SSD 512GB 15.6\" FHD IPS 60Hz 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_185",
+        "name": "ASUS ExpertBook P1 P1503CVA-i716-50W i7-13620H RAM 16GB SSD 512GB 15.6\" FHD IPS 60Hz 50Wh",
+        "brand": "ASUS",
+        "price": 17990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i7 13620H",
+            "ram": "16GB DDR5 SO-DIMM",
+            "screen": "15.6\", FHD (1920x1080), 60Hz",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 512GB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1503cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i7-13620h-16-512-fhd-p1503cva-i716-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1503CVA-i716-50W i7-13620H RAM 16GB SSD 512GB 15.6\" FHD IPS 60Hz 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_186",
+        "name": "ASUS ExpertBook P1 P1403CVA-i308256-50W i3 1315U RAM 8GB SSD 256GB 14\" FHD IPS 50Wh",
+        "brand": "ASUS",
+        "price": 12190000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ i3 1315U",
+            "ram": "8GB DDR5 SO-DIMM",
+            "screen": "14\", FHD (1920x1080), IPS",
+            "gpu": "Intel® UHD Graphics onboard",
+            "storage": "SSD 256GB"
+        },
+        "stock": 10,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-i3-1315u-8-256-fhd-p1403cva-i308256-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-i308256-50W i3 1315U RAM 8GB SSD 256GB 14\" FHD IPS 50Wh chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_187",
+        "name": "ASUS ExpertBook P1 P1403CVA-C5H16-50W Core 5 210H RAM 16GB 512GB Intel Graphics 14' FHD",
+        "brand": "ASUS",
+        "price": 19990000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5-210H",
+            "ram": "16GB DDR5",
+            "screen": "14'' FHD (1920 x 1080)",
+            "gpu": "Intel UHD Graphics",
+            "storage": "512GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-core-5-210h-16-512-p1403cva-c5h16-50w/",
+        "description": "Sản phẩm ASUS ExpertBook P1 P1403CVA-C5H16-50W Core 5 210H RAM 16GB 512GB Intel Graphics 14' FHD chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_188",
+        "name": "Asus ExpertBook P1 P1403CVA-C5H08-50W Core 5 210H RAM 8GB SSD 512GB 14'' FHD",
+        "brand": "Asus",
+        "price": 17690000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ 5-210H",
+            "ram": "8GB DDR5",
+            "screen": "14'' FHD (1920 x 1080)",
+            "gpu": "Intel UHD Graphics",
+            "storage": "SSD 512GB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p1_p1403cva_product_photo_1a_misty_grey_04_webcam_off_2400x2400_1.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p1-core-5-210h-8-512-p1403cva-c5h08-50w/",
+        "description": "Sản phẩm Asus ExpertBook P1 P1403CVA-C5H08-50W Core 5 210H RAM 8GB SSD 512GB 14'' FHD chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_189",
+        "name": "Lenovo IdeaPad Slim 5 14IMH10 83V6001GVN Ultra 5 135H RAM 16GB SSD 512GB 14\" FHD+",
+        "brand": "Lenovo",
+        "price": 22790000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "N/A",
+            "ram": "16GB",
+            "screen": "14\" FHD+",
+            "gpu": "Intel® Core™ Ultra 5 135H",
+            "storage": "SSD 512GB"
+        },
+        "stock": 12,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/IdeaPad_Slim_5_14IRH10_CT2_12.webp",
+        "product_url": "https://trungtran.vn/lenovo-ideapad-slim-5-ultra5-135h-16gb-512gb-fhd-83v6001gvn/",
+        "description": "Sản phẩm Lenovo IdeaPad Slim 5 14IMH10 83V6001GVN Ultra 5 135H RAM 16GB SSD 512GB 14\" FHD+ chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_190",
+        "name": "Surface Laptop 3 i5-1035G7 RAM 8GB SSD 256GB 13\" 2K IPS Touch",
+        "brand": "Surface",
+        "price": 11500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel Core i5 1035G7",
+            "ram": "8GB DDR4 3733",
+            "screen": "13.5” PixelSense™, độ phân giải 2256 x 1504",
+            "gpu": "Intel® Iris™ Plus Graphics",
+            "storage": "SSD 256GB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/surface_laptop_3.webp",
+        "product_url": "https://trungtran.vn/surface-laptop-3-i5-nhieu-cau-hinh/",
+        "description": "Sản phẩm Surface Laptop 3 i5-1035G7 RAM 8GB SSD 256GB 13\" 2K IPS Touch chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_191",
+        "name": "Surface Laptop 3 Ryzen 5 3580U RAM 8GB SSD 256GB 15\" 2K IPS Touch",
+        "brand": "Surface",
+        "price": 11500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "AMD Ryzen™ 5 3580U",
+            "ram": "8GB DDR4 2400",
+            "screen": "15” PixelSense™ Display, độ phân giải 2496 x 1664",
+            "gpu": "AMD Radeon™ Vega 9 Graphics",
+            "storage": "SSD 256GB"
+        },
+        "stock": 13,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/surface_laptop_3.webp",
+        "product_url": "https://trungtran.vn/surface-laptop-3-ryzen-5-nhieu-cau-hinh/",
+        "description": "Sản phẩm Surface Laptop 3 Ryzen 5 3580U RAM 8GB SSD 256GB 15\" 2K IPS Touch chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_192",
+        "name": "iMac M1 2021 8GB SSD 256GB 4.5K Retina Full Box Kèm Phím Chuột",
+        "brand": "iMac",
+        "price": 26500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Apple M1",
+            "ram": "8GB",
+            "screen": "24-inch 4.5K Retina (4480x2520), 500nits",
+            "gpu": "Apple M1 Graphics",
+            "storage": "SSD 256GB"
+        },
+        "stock": 15,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/imac_m1_2021_trungtran-3.webp",
+        "product_url": "https://trungtran.vn/imac-m1-2021-8gb/",
+        "description": "Sản phẩm iMac M1 2021 8GB SSD 256GB 4.5K Retina Full Box Kèm Phím Chuột chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_193",
+        "name": "Thinkpad X1 Carbon Gen 12 Ultra 7 155H RAM 32GB SSD 1TB 2.8K OLED 4G LTE",
+        "brand": "Thinkpad",
+        "price": 47500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 155H",
+            "ram": "32GB LPDDR5X 6400",
+            "screen": "14\" 2.8K OLED (2880 x 1800), 400nits",
+            "gpu": "Intel",
+            "storage": "SSD 1TB"
+        },
+        "stock": 8,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/x1_carbon_gen_12_thumbnail.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x1-carbon-gen-12-ultra-7-intel-oled-lte/",
+        "description": "Sản phẩm Thinkpad X1 Carbon Gen 12 Ultra 7 155H RAM 32GB SSD 1TB 2.8K OLED 4G LTE chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_194",
+        "name": "Acer Swift SFA14 2024 Snapdragon X Elite X1E78100 RAM 32GB SSD 1TB 14\" 2.5K 120Hz (Acer Go Pro AI 2024)",
+        "brand": "Acer",
+        "price": 23500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Snapdragon X Elite X1E78100 Qualcomm Oryon",
+            "ram": "32GB LPDDR5x 7372MHz",
+            "screen": "14″, 2.5K(2560x1600), 120Hz",
+            "gpu": "Qualcomm Adreno X1 GPU",
+            "storage": "SSD 1TB"
+        },
+        "stock": 9,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/SFA14-11_s.webp",
+        "product_url": "https://trungtran.vn/acer-swift-sfa14-11-2024-snapdragon-x-elite-32/",
+        "description": "Sản phẩm Acer Swift SFA14 2024 Snapdragon X Elite X1E78100 RAM 32GB SSD 1TB 14\" 2.5K 120Hz (Acer Go Pro AI 2024) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_195",
+        "name": "Thinkpad X1 Carbon Gen 13 Ultra 7 258V RAM 32GB SSD 1TB 14\" 2.8K OLED 120Hz (Aura Edition)",
+        "brand": "Thinkpad",
+        "price": 52500000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong",
+            "laptrinh"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 258V",
+            "ram": "32GB LPDDR5X 8533MHz",
+            "screen": "14\" 2.8K OLED (2880 x 1800), 400nits",
+            "gpu": "Intel",
+            "storage": "SSD 1TB"
+        },
+        "stock": 0,
+        "image_url": "https://trungtran.vn/images/products/2025/resized/ThinkPad_X1_Carbon_Gen_13_CT1_09.webp",
+        "product_url": "https://trungtran.vn/thinkpad-x1-carbon-gen-13-ultra-7-32-intel-oled-aura-edition/",
+        "description": "Sản phẩm Thinkpad X1 Carbon Gen 13 Ultra 7 258V RAM 32GB SSD 1TB 14\" 2.8K OLED 120Hz (Aura Edition) chính hãng, bảo hành uy tín."
+    },
+    {
+        "id": "PROD_196",
+        "name": "ASUS ExpertBook P5 P5405CSA-NZ0017W Ultra 7 258V RAM 32GB SSD 1TB 14\" 2.5K 100% sRGB 144Hz",
+        "brand": "ASUS",
+        "price": 33390000,
+        "currency": "VNĐ",
+        "category": [
+            "hoctap_vanphong"
+        ],
+        "specs": {
+            "cpu": "Intel® Core™ Ultra 7 258V",
+            "ram": "32GB LPDDR5X Onboard",
+            "screen": "14\", 2.5K+ (2560 x 1600), 144Hz",
+            "gpu": "Intel® Arc™ 140V GPU onboard",
+            "storage": "SSD 1TB"
+        },
+        "stock": 4,
+        "image_url": "https://trungtran.vn/images/products/2026/resized/expertbook_p5_p5405csa_product_photo_misty_grey_05.webp",
+        "product_url": "https://trungtran.vn/asus-expertbook-p5-ultra7-32-1t-2k/",
+        "description": "Sản phẩm ASUS ExpertBook P5 P5405CSA-NZ0017W Ultra 7 258V RAM 32GB SSD 1TB 14\" 2.5K 100% sRGB 144Hz chính hãng, bảo hành uy tín."
+    }
+]
