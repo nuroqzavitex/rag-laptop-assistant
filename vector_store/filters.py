@@ -29,6 +29,11 @@ def _parse_single_condition(cond: dict[str, Any]) -> FieldCondition | None:
         range_params['gt'] = value['$gt']
       if '$lt' in value:
         range_params['lt'] = value['$lt']
+      if range_params:
+        return FieldCondition(
+          key=field,
+          range=Range(**range_params)
+        )
 
     else:
       return FieldCondition(
