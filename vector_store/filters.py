@@ -3,7 +3,24 @@ from typing import Any
 from qdrant_client.models import FieldCondition, Filter, MatchValue, Range
 
 def _build_qdrant_filter(where: dict[str, Any]) -> Filter | None:
-  pass
+  if not where:
+    return None
+  
+  conditions = []
+
+  if '$and' in where:
+    for cond in where['$and']:
+      f = _parse_single_condition(cond)
+      if f:
+        conditions.append(f)
+    if conditions:
+      return Filter(must=conditions)
+    return None
+  
+  f = _parse_single_condition(where)
+  if f:
+    return Filter(must=[f])
+  return None
 
 def _parse_single_condition(cond: dict[str, Any]) -> FieldCondition | None:
   for field, value in cond.items():
