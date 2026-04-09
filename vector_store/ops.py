@@ -13,7 +13,7 @@ def _doc_id_to_uuid(doc_id: str) -> str:
   # Chuyển doc_id thành uuid không thể thay đổi đưa vào Qdrant
   return str(uuid.uuid5(uuid.NAMESPACE_DNS, doc_id))
 
-def upsert_documents(collection_name: str, ids: list[str], texts: list[str], embeddings: list[list[float]], metadata: list[dict[str, Any]], batch_size: int = 100) -> None:
+def upsert_documents(collection_name: str, ids: list[str], texts: list[str], embeddings: list[list[float]], metadatas: list[dict[str, Any]], batch_size: int = 100) -> None:
   # Upsert documents vào Qdrant collection
   _ensure_collection(collection_name, len(embeddings[0]) if embeddings else None)
   client = _get_client()
@@ -22,7 +22,7 @@ def upsert_documents(collection_name: str, ids: list[str], texts: list[str], emb
     end = min(i+batch_size, len(ids))
     points = []
     for j in range(i, end):
-      payload = {**metadata[j], '_text': texts[j], "_doc_id": ids[j]}
+      payload = {**metadatas[j], '_text': texts[j], "_doc_id": ids[j]}
       point_id = _doc_id_to_uuid(ids[j])
       points.append(
         PointStruct(
