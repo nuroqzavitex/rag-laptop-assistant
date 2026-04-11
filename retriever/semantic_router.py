@@ -19,7 +19,7 @@ _RAG_SAMPLES = [
   "địa chỉ shop ở đâu", "cửa hàng ở hà nội", "số điện thoại liên hệ",
   "chính sách bảo hành như thế nào", "có ship code không", "phí vận chuyển bao nhiêu",
   "laptop gaming msi giá rẻ", "thông số kỹ thuật dell inspiron 14", "core i5 ram 16gb",
-  "shop có hỗ trợ trả góp không", "giờ mở cửa của shop", "showroom trung trần"
+  "shop có hỗ trợ trả góp không", "giờ mở cửa của shop", "showroom hùng nhữ"
 ]
 
 class SemanticRouter:
@@ -41,15 +41,19 @@ class SemanticRouter:
     norm[norm == 0] = 1 # tránh chia cho 0
     return v/norm
 
-  def classify(self, query: str) -> tuple[str, dict[str, float]]:
+  def classify(self, query: str, query_emb: list | None = None) -> tuple[str, dict[str, float]]:
     # Phân loại query 
-    query_emb_raw = np.array([embed_texts(query)]) # dim = (1, dim_embed)
-    query_emb = self._normalize(query_emb_raw)
+    if query_emb is not None:
+      query_emb_raw = np.array([query_emb])
+    else:
+      query_emb_raw = np.array([embed_texts(query)])
 
-    sim_chitchat = np.dot(query_emb, self.chitchat_embeddings.T) # dim = (1, N) gồm N điểm tương đồng giữa query với mỗi câu chitchat
+    query_emb_norm = self._normalize(query_emb_raw)
+
+    sim_chitchat = np.dot(query_emb_norm, self.chitchat_embeddings.T) # dim = (1, N) gồm N điểm tương đồng giữa query với mỗi câu chitchat
     max_chitchat = float(np.max(sim_chitchat)) # Lấy điểm tương đồng cao nhất
 
-    sim_rag = np.dot(query_emb, self.rag_embeddings.T)
+    sim_rag = np.dot(query_emb_norm, self.rag_embeddings.T)
     max_rag = float(np.max(sim_rag))
 
     log.info(f'Router scores -> chitchat: {max_chitchat:.3f}, rag: {max_rag:.3f}')
@@ -66,8 +70,8 @@ def init_router():
   if _router is None:
     _router = SemanticRouter()
 
-def classify_query(query: str) -> tuple[str, dict[str, float]]:
+def classify_query(query: str, query_emb: list | None = None) -> tuple[str, dict[str, float]]:
   global _router
   if _router is None:
     _router = SemanticRouter()
-  return _router.classify(query)
+  return _router.classify(query, query_emb=query_emb)
