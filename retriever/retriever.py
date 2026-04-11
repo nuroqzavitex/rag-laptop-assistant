@@ -13,8 +13,8 @@ from retriever.hybrid_scorer import compute_hybrid_scores
 
 log = get_logger(__name__)
 
-def retrieve_knowledge(query: str, top_k: int | None = None, final_top_k: int | None = None) -> tuple[list[RetrievedDoc], dict[str, Any], float]:
-  # query: câu hỏi user, top_k: số doc lấy từ vector db ban đầu, final_top_k: số doc cuối cùng trả về
+def retrieve_knowledge(query: str, top_k: int | None = None, final_top_k: int | None = None, query_emb: list | None = None) -> tuple[list[RetrievedDoc], dict[str, Any], float]:
+  # query: câu hỏi user, top_k: số doc lấy từ vector db ban đầu, final_top_k: số doc cuối cùng trả về, query_emb: embed của query nếu có, không phải gọi API embed lại lần nữa
   start = time.time()
   top_k = top_k or cfg.retrieval.top_k
   final_top_k = final_top_k or cfg.retrieval.final_top_k
@@ -25,7 +25,8 @@ def retrieve_knowledge(query: str, top_k: int | None = None, final_top_k: int | 
   meta_filter = build_metadata_filter(intent) # filter về gpu, ram, storage
 
   # 2. Embed query
-  query_emb = embed_texts(query)
+  if query_emb is None:
+    query_emb = embed_texts(query)
 
   # 3. Vector search 
   raw = vector_search(
@@ -38,7 +39,7 @@ def retrieve_knowledge(query: str, top_k: int | None = None, final_top_k: int | 
   ids = raw['ids'][0] if raw['ids'] else [] # trong raw thuộc tính ids có dạng [[id1, id2,...]]
   
   # Ít kết quả trả về hoặc không có filter thì gắn thêm thông tin công ty và sản phẩm có liên quan
-  if len(ids) < 3:
+  if len(ids) < 2:
     log.info('Broadening search to include all knowledge types')
     broad_raw = vector_search(
       collection_name=cfg.qdrant.knowledge_collection,
