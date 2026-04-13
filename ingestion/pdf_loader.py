@@ -45,11 +45,11 @@ def _classify_line(line: str) -> str | None:
   
   # Trả về chính nó nếu là đề mục được đánh bằng số la mã
   if _ROMAN_HEADING.match(stripped):
-    return stripped
+    return ('roman', stripped)
   
   # Trả về chính nó nếu là đề mục được đánh bằng số
   if _NUM_HEADING.match(stripped):
-    return stripped
+    return ('number', stripped)
   
   return None
 
@@ -69,8 +69,10 @@ def load_pdf_chunk(pdf_path: Path | None = None, max_chunk_size: int = 800)-> li
   lines = full_text.split('\n')
 
   chunks: list[dict[str, Any]] = []
+  parent_section = 'Thông tin chung'
   current_section = 'Thông tin chung'
   current_lines: list[str] = []
+  current_h_type = 'roman'
 
   def _flush():
     if not current_lines:
@@ -82,19 +84,29 @@ def load_pdf_chunk(pdf_path: Path | None = None, max_chunk_size: int = 800)-> li
         'text': text,
         'metadata': {
           'source': path.name,
+          'parent_section': parent_section,
           'section': current_section,
           'source_type': 'company'
         }
       })
   
   for line in lines:
-    heading = _classify_line(line)
+    heading_info = _classify_line(line)
 
-    if heading is not None: 
+    if heading_info is not None: 
       # Nếu có tiêu đề mới thì hoàn thiện chunk trước đó, tạo chunk mới có section mới là heading
       _flush() 
-      current_section = heading 
-      current_lines = [line]
+      current_h_type, heading = heading_info
+      if current_h_type == 'roman':
+        parent_section = heading
+        current_section = heading
+        current_lines = [heading]
+      else: # 'number'
+        current_section = heading
+        if parent_section != current_section:
+          current_lines = [f'{parent_section} - {heading}']
+        else:
+          current_lines = [heading]
     else:
       # Nếu không phải tiêu đề thì thêm dòng này vào chunk hiện tại
       current_lines.append(line)
@@ -102,7 +114,10 @@ def load_pdf_chunk(pdf_path: Path | None = None, max_chunk_size: int = 800)-> li
     chunk_text = '\n'.join(current_lines)
     if len(chunk_text) > max_chunk_size:
       _flush()
-      current_lines = []
+      if current_h_type == 'number' and parent_section != current_section:
+        current_lines = [f'{parent_section} - {current_section}']
+      else:
+        current_lines = [current_section]
  
   _flush() # Lưu lại chunk cuối cùng
 
