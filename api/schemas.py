@@ -6,7 +6,7 @@ class ChatRequest(BaseModel):
   message: str = Field(..., min_length=1, max_length=1000, description='User message')
   session_id: str = Field(default='default', description='Session ID for chat history')
 
-class ChatResponse(BaseModel):
+class ChatResponseModel(BaseModel):
   answer: str
   products: list[dict[str, Any]] = []
   route: str
