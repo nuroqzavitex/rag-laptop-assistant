@@ -1,5 +1,6 @@
 import streamlit as st
 from ui.api_client import post_chat
+import requests as _req
 
 def get_route_badge(route: str) -> str:
   # Trả về badge tương ứng với route
@@ -44,4 +45,50 @@ def render_message_history() -> None:
           for prod in msg['products']:
             render_product_card(prod)
 
+def render_chat_input() -> None:
+  # Xử lí chat input, gọi API và lưu tin nhắn vào session_state
+  if prompt := st.chat_input('Nhập câu hỏi về laptop...'):
+    st.session_state.messages.append({'role': 'user', 'content': prompt})
+    with st.chat_message('user'):
+      st.markdown(prompt)
+    
+    with st.chat_message('assistant'):
+      with st.spinner('Đang tư vấn...'):
+        try:
+          resp = post_chat(
+            session_id=st.session_state.session_id,
+            message=prompt,
+            token = st.session_state.token
+          )
 
+          route = resp.get('route', 'product')
+          answer = resp.get('answer', 'Xin lỗi, tôi không có câu trả lời cho câu hỏi này.')
+          products = resp.get('products', [])
+          elapsed = resp.get('retrieval_time_ms', 0)
+
+          st.markdown(get_route_badge(route), unsafe_allow_html=True)
+          st.markdown(answer)
+
+          if products:
+            with st.expander(
+              f'Xem {len(products)} sản phẩm tìm được', expanded = False
+            ):
+              for prod in products:
+                render_product_card(prod)
+          st.caption(f'{elapsed:.0f} ms | Route: {route}')
+
+          st.session_state.messages.append(
+            {
+              'role': 'assistant',
+              'content': answer,
+              'route': route,
+              'products': products
+            }
+          )
+        
+        except Exception as e:
+          if isinstance(e, _req.exceptions.ConnectionError):
+            st.error('Không thể kết nối đến API. Hãy chạy API server trước')
+            st.code('uvicorn api.main:app --reload')
+          else:
+            st.error(f'Lỗi: {e}')

@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from api.routes import chat, health, products
 from retriever.semantic_router import init_router
 import uvicorn
+import os
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -31,5 +32,6 @@ app.include_router(chat.router)
 app.include_router(products.router)
 
 if __name__ == "__main__":
-  uvicorn.run('api.main:app', host='0.0.0.0', port=8000, reload=True)
+  port = int(os.getenv("PORT", 8000))
+  uvicorn.run("api.main:app", host="0.0.0.0", port=port, reload=True)
 
