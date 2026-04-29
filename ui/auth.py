@@ -1,18 +1,20 @@
 import streamlit as st
 from ui.config import supabase
 
-def init_session_state() -> None:
+def init_session_state() -> None: 
+  # Khởi tạo session state để lưu trữ thông tin đăng nhập, lịch sử tin nhắn và session_id
   if 'session_id' not in st.session_state:
     st.session_state.session_id = 'default'
   if 'messages' not in st.session_state:
     st.session_state.messages = []
-  if 'auth_token' not in st.session_state:
+  if 'auth_token' not in st.session_state: # Khởi tạo auth_token để lưu token đăng nhập, user_email để lưu email người dùng
     st.session_state.auth_token = None
   if 'user_email' not in st.session_state:
     st.session_state.user_email = None
 
 def render_auth_form() -> None:
-  st.subheader("Đăng nhập")
+  # Hiển thị form đăng nhập hoặc đăng ký nếu chưa có token, ngược lại hiển thị thông tin người dùng và nút đăng xuất
+  st.subheader("Đăng nhập") 
   auth_mode = st.radio(
     'Chế độ',
     ['Đăng nhập', 'Đăng ký'],
@@ -42,6 +44,7 @@ def render_auth_form() -> None:
   st.stop()
 
 def render_user_info() -> None:
+  # Hiển thị thông tin người dùng và nút đăng xuất
   st.success(f'Chào, **{st.session_state.user_email}**!')
   if st.button('Đăng xuất', use_container_width=True):
     st.session_state.auth_token = None
