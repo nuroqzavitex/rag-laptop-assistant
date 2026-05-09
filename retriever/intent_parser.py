@@ -98,6 +98,7 @@ def parse_intent(query: str) -> dict[str, Any]:
         val = _normalize_price(match.group(1))
         intent['price_min'] = int(val*0.8)
         intent['price_max'] = int(val*1.2)
+      break
 
   # GPU
   for gpu in GPU_KEYWORDS:
