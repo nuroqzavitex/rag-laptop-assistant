@@ -1,7 +1,7 @@
 from __future__ import annotations
 import re
 from typing import Any
-from rank_bm25 import BM250kpai
+from rank_bm25 import BM25Okapi
 from core.logger import get_logger
 from pyvi import ViTokenizer
 
@@ -32,7 +32,7 @@ def bm25_rerank(query: str, candidates: list[dict[str, Any]]) -> list[dict[str, 
     else:
       corpus.append(_tokenize(c.get('text','')))
   
-  bm25 = BM250kpai(corpus)
+  bm25 = BM25Okapi(corpus)
 
   query_tokens = _tokenize(query)
   scores = bm25.get_scores(query_tokens)
