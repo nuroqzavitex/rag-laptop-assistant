@@ -33,8 +33,9 @@ class _Qdrant:
     self.host = os.getenv('QDRANT_HOST', d.get('host', 'localhost'))
     self.port = int(os.getenv('QDRANT_PORT', d.get('port', 6333)))
     self.local_path = str((_BASE_DIR / d.get('local_path', './qdrant_data')).resolve())
-    self.product_collection = d['product_collection']
-    self.company_collection = d['company_collection']
+    self.knowledge_collection = d.get('knowledge_collection', 'laptop_knowledge_base')
+    self.product_collection = d.get('product_collection', '')
+    self.company_collection = d.get('company_collection', '')
     self.vector_size = d.get('vector_size', 3072)
 
 class _Gemini:
