@@ -52,7 +52,7 @@ def test_add_to_history_no_trimming(mock_supabase_client):
   mock_supabase_client.execute.return_value = mock_trim_response
 
   # Gọi hàm add_to_history với các tham số giả
-  add_to_history(user_id = 'user_1', session_id = 'session_1', role = 'user', content = 'Hello!')
+  add_to_history(user_id = 'user_1', session_id = 'sess_1', role = 'user', content = 'Hello!')
 
   # Kiểm tra phương thức insert được gọi đúng cách
   mock_supabase_client.insert.assert_called_with({
