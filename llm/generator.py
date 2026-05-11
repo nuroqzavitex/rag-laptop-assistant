@@ -63,7 +63,7 @@ def _format_knowledge_context(docs: list[RetrievedDoc]) -> str:
       price = meta.get('price', 0)
       stock = meta.get('stock', 0)
       name = meta.get('name', 'N/A')
-      price_str = f"{price:,.0f}".replace(',', '.') + 'VNĐ'
+      price_str = f"{price:,.0f}".replace(',', '.') + ' VNĐ'
       stock_str = f"Còn {stock} sản phẩm" if stock > 0 else "❌ Hết hàng"
 
       part = f"""
