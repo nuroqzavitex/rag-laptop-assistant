@@ -3,7 +3,7 @@ from core.models import RetrievedDoc
 from llm.generator import _format_knowledge_context
 
 def test_format_knowledge_context_empty():
-    assert "Không tìm thấy thông tin phù hợp" in _format_knowledge_context([])
+  assert "Không tìm thấy thông tin phù hợp" in _format_knowledge_context([])
 
 def test_format_knowledge_context_product():
   docs = [
