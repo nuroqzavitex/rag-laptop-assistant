@@ -12,7 +12,7 @@ _client: genai.Client | None = None
 def _get_client() -> genai.Client:
   global _client # Sử dụng biến toàn cục để lưu trữ client đã khởi tạo
   if _client is None:
-    _client = genai.Client(api_key = cfg.google.api_key)
+    _client = genai.Client(api_key = cfg.gemini.api_key)
   return _client
 
 def embed_texts(text: str) -> list[float]:
