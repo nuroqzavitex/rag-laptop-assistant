@@ -39,5 +39,6 @@ class RetrievedDoc(BaseModel):
 class ChatResponse(BaseModel):
   answer: str
   products: list[dict[str, Any]] = Field(default_factory=list)
+  docs: list[RetrievedDoc] = Field(default_factory=list)
   route: str = 'product' # chitchat | company
   retrieval_time_ms: float = 0.0

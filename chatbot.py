@@ -38,9 +38,9 @@ class Chatbot:
   def reset_history(self, user_id: str, session_id: str) -> None:
     reset_history(user_id=user_id, session_id=session_id)
 
-  def chat(self, query: str, user_id: str, session_id: str = 'default') -> ChatResponse:
+  def chat(self, query: str, user_id: str, session_id: str = 'default', save_history: bool = True) -> ChatResponse:
     start = time.time()
-    history = self._get_history(session_id)
+    history = self._get_history(session_id) if save_history else []
 
     # Gắn thêm ngữ cảnh nếu cần thiết
     if history and _need_contextualize(query):
@@ -58,12 +58,14 @@ class Chatbot:
     # 3. Xử lý theo route
     if route == 'chitchat':
       answer = handle_chitchat(standalone_query, history)
-      self._add_to_history(user_id, session_id, 'user', query)
-      self._add_to_history(user_id, session_id, 'assistant', answer)
+      if save_history:
+        self._add_to_history(user_id, session_id, 'user', query)
+        self._add_to_history(user_id, session_id, 'assistant', answer)
       elapsed = (time.time() - start) * 1000
       return ChatResponse(
         answer = answer,
         products=[],
+        docs = [],
         route='chitchat',
         retrieval_time_ms=elapsed
       )
@@ -86,13 +88,15 @@ class Chatbot:
             'score': doc.score
           })
       
-      self._add_to_history(user_id, session_id, 'user', query)
-      self._add_to_history(user_id, session_id, 'assistant', answer)
+      if save_history:
+        self._add_to_history(user_id, session_id, 'user', query)
+        self._add_to_history(user_id, session_id, 'assistant', answer)
 
       elapsed = (time.time() - start) * 1000
       return ChatResponse(
         answer = answer,
         products=products,
+        docs = docs,
         route='rag',
         retrieval_time_ms=elapsed
       )
