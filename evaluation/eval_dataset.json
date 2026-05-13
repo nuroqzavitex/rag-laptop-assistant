@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Shop Hùng Nhữ có bán laptop Dell không?",
+    "ground_truth": "Có. Có Dell Latitude 5411 i5 10400H RAM 16GB SSD 256GB giá 9.500.000 VNĐ và Dell Precision 7780 i7 13850HX RAM 64GB SSD 1TB RTX 3500 Ada giá 53.500.000 VNĐ."
+  },
+  {
+    "question": "Chính sách bảo hành tại cửa hàng Hùng Nhữ Computer như thế nào?",
+    "ground_truth": "Bảo hành linh hoạt; lỗi 1 đổi 1 trong 30 ngày đầu nếu lỗi từ nhà sản xuất; có hỗ trợ kỹ thuật và chăm sóc sau bán."
+  },
+  {
+    "question": "Tôi muốn mua laptop tầm 17 triệu để học tập và làm văn phòng, bạn gợi ý mẫu nào?",
+    "ground_truth": "Khoảng 17 triệu: Lenovo Ideapad Slim 3 14ARP10 Ryzen 5 7535HS RAM 16GB SSD 512GB giá 17.790.000 VNĐ; Asus Vivobook 15 OLED A1505VA i5 13500H RAM 16GB SSD 512GB giá 17.190.000 VNĐ. Phù hợp học tập và văn phòng."
+  },
+  {
+    "question": "Shop có hỗ trợ trả góp không?",
+    "ground_truth": "Có hỗ trợ trả góp để khách dễ mua; điều kiện và hình thức cụ thể nên gọi hotline hoặc hỏi trực tiếp tại cửa hàng."
+  },
+  {
+    "question": "Laptop gaming Asus ROG giá bao nhiêu?",
+    "ground_truth": "Nhiều mức giá. Ví dụ: Asus ROG Zephyrus G14 GA403WM (Ryzen AI 9 HX 370, RTX 5060) 53.790.000 VNĐ; Asus ROG STRIX G16 G615JMR (i7 14650HX, RTX 5060) 43.000.000 VNĐ."
+  },
+  {
+    "question": "Laptop Lenovo Legion có những mẫu nào?",
+    "ground_truth": "Ví dụ: Legion 5 15IRX10 i7 RTX 5060 40.190.000 VNĐ; Legion 5 15IRX10 i7 RTX 5050 37.490.000 VNĐ; Legion Pro 7i Ultra 9 RTX 5070Ti 66.190.000 VNĐ."
+  },
+  {
+    "question": "Địa chỉ hoặc số điện thoại của Hùng Nhữ Computer là gì?",
+    "ground_truth": "Địa chỉ 83-85 Thái Hà, Hà Nội. Hotline 0813922505. Website hungnhu.nv. Email hunn1302@gmail.com. Giờ làm việc 08:30–21:00 hằng ngày."
+  },
+  {
+    "question": "Laptop nào phù hợp cho sinh viên lập trình tầm 20 triệu?",
+    "ground_truth": "Quanh 20 triệu: Lenovo Lecoo Pro 14 Ryzen 7 H 255 RAM 32GB SSD 1TB giá 19.490.000 VNĐ; Thinkbook 14 G7+ Ryzen 7 H 255 RAM 24GB SSD 512GB giá 20.490.000 VNĐ."
+  }
+]

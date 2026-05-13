@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 *.log
+/qdrant_data
+/evaluation/eval_results.csv
