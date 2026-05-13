@@ -18,17 +18,18 @@ handlers:
     level: DEBUG
     formatter: standard
     filename: logs/applications.log
+    encoding: utf-8
     maxBytes: 5242880   
     backupCount: 3
 
 root:
   level: DEBUG
-  handlers: [console, file]
+  handlers: [file]
 
 loggers:
   rag_v2:
     level: DEBUG
-    handlers: [console, file]
+    handlers: [file]
     propagate: false
   qdrant_client:
     level: WARNING
