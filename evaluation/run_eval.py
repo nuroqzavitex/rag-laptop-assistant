@@ -52,8 +52,7 @@ def run_evaluation(dataset_path = 'evaluation/eval_dataset.json'):
       question,
       user_id='eval_user',
       session_id=f'eval_{i}',
-      save_history=False,
-      eval_mode=True,
+      save_history=False
     )
 
     contexts = [doc.text for doc in response.docs] if hasattr(response, 'docs') else []
