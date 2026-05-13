@@ -70,7 +70,9 @@ class Chatbot:
         retrieval_time_ms=elapsed
       )
     else:
-      docs, intent, retrieval_ms = retrieve_knowledge(standalone_query, query_emb)
+      docs, intent, retrieval_ms = retrieve_knowledge(
+        standalone_query, query_emb=query_emb
+      )
       answer = generate_response(standalone_query, docs, history)
 
       products = []
