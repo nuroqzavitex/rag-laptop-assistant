@@ -11,7 +11,7 @@ _CHITCHAT_SAMPLE = [
   "chào bạn", "xin chào", "hello", "hi there", "hey",
   "bạn là ai", "tên bạn là gì", "mày là ai", "bạn có phải chatbot không",
   "cảm ơn bạn", "thank you", "thanks", "tạm biệt", "bye", "hẹn gặp lại",
-  "haha", "hihi", "vui quá", "hôm nay thế nào", "bạn khỏe không"
+  "haha", "hihi", "vui quá", "hôm nay thế nào", "bạn khỏe không", "alo vũ à vũ"
 ]
 
 _RAG_SAMPLES = [
@@ -41,8 +41,28 @@ class SemanticRouter:
     norm[norm == 0] = 1 # tránh chia cho 0
     return v/norm
 
+  def check_keyword_match(self, query: str) -> str | None:
+    q_lower = query.lower().strip()
+    for sample in _CHITCHAT_SAMPLE:
+      if sample in q_lower:
+        log.info(f"Keyword match -> chitchat: '{sample}' in '{q_lower}'")
+        return 'chitchat'
+        
+    for sample in _RAG_SAMPLES:
+      if sample in q_lower:
+        log.info(f"Keyword match -> rag: '{sample}' in '{q_lower}'")
+        return 'rag'
+    return None
+
   def classify(self, query: str, query_emb: list | None = None) -> tuple[str, dict[str, float]]:
-    # Phân loại query 
+    # 1. Kiểm tra keyword matching trước
+    kw_match = self.check_keyword_match(query)
+    if kw_match == 'chitchat':
+      return 'chitchat', {'chitchat': 1.0, 'rag': 0.0}
+    elif kw_match == 'rag':
+      return 'rag', {'chitchat': 0.0, 'rag': 1.0}
+
+    # 2. Nếu không match, tính toán tích vô hướng
     if query_emb is not None:
       query_emb_raw = np.array([query_emb])
     else:
@@ -70,8 +90,15 @@ def init_router():
   if _router is None:
     _router = SemanticRouter()
 
+def check_keyword(query: str) -> str | None:
+  global _router
+  if _router is None:
+    _router = SemanticRouter()
+  return _router.check_keyword_match(query)
+
 def classify_query(query: str, query_emb: list | None = None) -> tuple[str, dict[str, float]]:
   global _router
   if _router is None:
     _router = SemanticRouter()
   return _router.classify(query, query_emb=query_emb)
+
