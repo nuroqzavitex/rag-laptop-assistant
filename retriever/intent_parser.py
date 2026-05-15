@@ -62,6 +62,29 @@ def _normalize_price(val_str: str) -> int:
 RAM_PATTERN = re.compile(r"(\d+)\s*(?:gb|GB)\s*(?:ram|RAM)?", re.I)
 STORAGE_PATTERN = re.compile(r"(?:ssd\s*)?(\d+)\s*(?:tb|TB)", re.I)
 
+COMPANY_KEYWORDS = [
+  "shop", "cửa hàng", "cua hang", "địa chỉ", "dia chi", "showroom",
+  "bảo hành", "bao hanh", "chính sách", "chinh sach",
+  "ship", "giao hàng", "giao hang", "vận chuyển", "van chuyen",
+  "liên hệ", "lien he", "hotline", "số điện thoại", "so dien thoai",
+  "giờ mở cửa", "gio mo cua", "mở cửa", "mo cua",
+  "trả góp", "tra gop", "đổi trả", "doi tra",
+  "công ty", "cong ty",
+]
+
+_PRODUCT_INTENT_KEYS = frozenset({
+  "brand", "category", "price_min", "price_max", "gpu", "cpu", "ram_size", "storage_tb",
+})
+
+def is_company_query(query: str) -> bool:
+  q = query.lower()
+  if not any(kw in q for kw in COMPANY_KEYWORDS):
+    return False
+  intent = parse_intent(query)
+  if any(k in intent for k in _PRODUCT_INTENT_KEYS):
+    return False
+  return True
+
 def parse_intent(query: str) -> dict[str, Any]:
   # Trả về dict chứa các thông tin đã trích xuất được từ user, ví dụ {'brand': 'asus', 'price_max': 2000000}
   q = query.lower()
