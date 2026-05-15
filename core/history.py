@@ -7,6 +7,35 @@ from core.logger import get_logger
 log = get_logger(__name__)
 
 _supabase: Optional[Client] = None
+_db_ok: bool | None = None
+
+def check_db_connection() -> tuple[bool, str]:
+  """Verify service key can read/write chat_history."""
+  global _db_ok
+  client = _get_supabase()
+  if not client:
+    _db_ok = False
+    return False, 'SUPABASE_URL hoặc SUPABASE_SERVICE_KEY chưa được cấu hình'
+  try:
+    probe_id = '__connection_probe__'
+    client.table('chat_history').insert({
+      'user_id': probe_id,
+      'session_id': 'probe',
+      'role': 'user',
+      'content': 'probe',
+    }).execute()
+    client.table('chat_history').delete().eq('user_id', probe_id).execute()
+    _db_ok = True
+    return True, 'ok'
+  except Exception as e:
+    _db_ok = False
+    msg = str(e)
+    if 'Invalid API key' in msg:
+      return False, (
+        'SUPABASE_SERVICE_KEY không hợp lệ. '
+        'Vào Supabase Dashboard → Project Settings → API → copy lại service_role key.'
+      )
+    return False, msg
 
 def _get_supabase() -> Optional[Client]:
   global _supabase
@@ -68,6 +97,7 @@ def add_to_history(user_id: str, session_id: str, role: str, content: str) -> No
     # 2. Xóa tin nhắn cũ nếu vượt quá MAX_STORE_MESSAGES
     response = client.table('chat_history')\
       .select('created_at')\
+      .eq('user_id', user_id)\
       .eq('session_id', session_id)\
       .order('created_at', desc=True)\
       .limit(1)\
@@ -78,13 +108,16 @@ def add_to_history(user_id: str, session_id: str, role: str, content: str) -> No
       threshold_time = response.data[0]['created_at']
       client.table('chat_history')\
         .delete()\
+        .eq('user_id', user_id)\
         .eq('session_id', session_id)\
         .lt('created_at', threshold_time)\
         .execute()
       log.debug(f'Cleaned up old messages in session {session_id} created before {threshold_time}')
   
   except Exception as e:
-    log.error(f'Error saving message to Supabase: {e}')
+    global _db_ok
+    _db_ok = False
+    log.error(f'Không lưu được lịch sử chat vào Supabase: {e}')
 
 
 def reset_history(user_id: str, session_id: str) -> None:
