@@ -1,5 +1,5 @@
 import pytest
-from retriever.intent_parser import parse_intent
+from retriever.intent_parser import parse_intent, is_company_query
 
 def test_parse_intent_brand():
     # Kiểm tra nhận diện đúng thương hiệu (cả viết hoa/thường)
@@ -61,3 +61,13 @@ def test_parse_intent_combined():
     assert intent.get("category") == "gaming"
     assert intent.get("price_max") == 30000000
     assert intent.get("gpu") == "RTX 4050"
+
+def test_is_company_query():
+    assert is_company_query("Shop ở đâu?") is True
+    assert is_company_query("Chính sách bảo hành như thế nào?") is True
+    assert is_company_query("Giờ mở cửa của shop") is True
+
+def test_is_company_query_not_when_product_intent():
+    assert is_company_query("Laptop gaming dưới 30 triệu") is False
+    assert is_company_query("Shop có laptop dell không") is False
+    assert is_company_query("Macbook pro m3 giá bao nhiêu") is False
