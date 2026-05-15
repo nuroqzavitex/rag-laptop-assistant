@@ -69,7 +69,12 @@ class _Server:
 class _Supabase:
   def __init__(self, d: dict):
     self.url = os.getenv('SUPABASE_URL', d.get('url', ''))
-    self.key = os.getenv('SUPABASE_KEY', d.get('key', ''))
+    # Backend (history, admin): service role. Prefer explicit env name.
+    self.key = os.getenv(
+      'SUPABASE_SERVICE_KEY',
+      os.getenv('SUPABASE_KEY', d.get('key', '')),
+    )
+    self.anon_key = os.getenv('SUPABASE_ANON_KEY', '')
 
 class Config:
   def __init__(self):
