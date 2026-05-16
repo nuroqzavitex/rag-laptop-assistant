@@ -59,7 +59,7 @@ An intelligent, context-aware customer support chatbot for a laptop store, power
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/hungnv1302/RAG_laptop_store.git
+git clone https://github.com/nuroqzavitex/RAG_laptop_store.git
 cd RAG_laptop_store
 ```
 
