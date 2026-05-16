@@ -1,0 +1,76 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    restart: unless-stopped
+    volumes:
+      - qdrant_storage:/qdrant/storage
+    ports:
+      - "6333:6333"
+    networks:
+      - app_net
+
+  api:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      PORT: "8000"
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: "6333"
+      DOCKER_ENV: "1"
+    env_file:
+      - path: .env
+        required: false
+    command: ["sh", "-c", "uv run uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000} --reload"]
+    volumes:
+      - ./:/app
+      - /app/.venv
+    depends_on:
+      - qdrant
+    networks:
+      - app_net
+
+  ui:
+    profiles: ["ui"]
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    environment:
+      PORT: "8501"
+      QDRANT_HOST: qdrant
+      QDRANT_PORT: "6333"
+      DOCKER_ENV: "1"
+      API_URL: http://api:8000
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./:/app
+      - /app/.venv
+    command:
+      [
+        "uv",
+        "run",
+        "streamlit",
+        "run",
+        "ui/chat.py",
+        "--server.port",
+        "8501",
+        "--server.address",
+        "0.0.0.0",
+        "--server.headless",
+        "true",
+      ]
+    depends_on:
+      - api
+    networks:
+      - app_net
+
+volumes:
+  qdrant_storage:
+
+networks:
+  app_net:
+    driver: bridge
