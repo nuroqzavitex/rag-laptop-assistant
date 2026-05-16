@@ -58,7 +58,7 @@ def render_chat_input() -> None:
           resp = post_chat(
             session_id=st.session_state.session_id,
             message=prompt,
-            token = st.session_state.token
+            token = st.session_state.auth_token
           )
 
           route = resp.get('route', 'product')
@@ -92,3 +92,24 @@ def render_chat_input() -> None:
             st.code('uvicorn api.main:app --reload')
           else:
             st.error(f'Lỗi: {e}')
+
+def main() -> None:
+  st.set_page_config(page_title="Laptop Store Chatbot", page_icon="💻", layout="wide")
+  
+  from ui.styles import inject_styles
+  from ui.auth import init_session_state
+  from ui.sidebar import render_sidebar
+  
+  inject_styles()
+  init_session_state()
+  render_sidebar()
+  
+  # Chỉ hiển thị chat khi đã đăng nhập
+  if st.session_state.auth_token:
+    render_message_history()
+    render_chat_input()
+  else:
+    st.info('Vui lòng đăng nhập ở menu bên trái để bắt đầu chat.')
+
+if __name__ == '__main__':
+  main()
