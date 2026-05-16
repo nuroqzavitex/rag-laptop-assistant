@@ -1,5 +1,5 @@
 import streamlit as st
-from ui.config import supabase
+from ui.config import supabase, AUTH_REDIRECT_URL
 
 def init_session_state() -> None: 
   # Khởi tạo session state để lưu trữ thông tin đăng nhập, lịch sử tin nhắn và session_id
@@ -25,11 +25,35 @@ def render_auth_form() -> None:
   email = st.text_input('Email')
   password = st.text_input('Mật khẩu', type='password')
 
+  if supabase is None:
+    st.error('Chưa cấu hình SUPABASE_URL và SUPABASE_ANON_KEY trong file .env')
+    st.stop()
+
   if auth_mode == 'Đăng ký':
     if st.button('Tạo tài khoản', use_container_width=True):
       try:
-        supabase.auth.sign_up({'email': email, 'password': password})
-        st.success('Đã gửi email xác nhận!')
+        res = supabase.auth.sign_up({
+          'email': email,
+          'password': password,
+          'options': {'email_redirect_to': AUTH_REDIRECT_URL},
+        })
+        if res.session:
+          st.session_state.auth_token = res.session.access_token
+          st.session_state.user_email = email
+          st.success('Đăng ký thành công!')
+          st.rerun()
+        elif res.user:
+          # Nếu user.identities rỗng, nghĩa là email đã tồn tại 
+          # (do tính năng Email Enumeration Protection của Supabase)
+          if res.user.identities is not None and len(res.user.identities) == 0:
+            st.error('Email này đã được đăng ký. Vui lòng đăng nhập hoặc sử dụng email khác.')
+          else:
+            st.success(
+              f'Đã gửi email xác nhận tới **{email}**. '
+              'Sau khi bấm link trong email, quay lại đây để đăng nhập. '
+            )
+        else:
+          st.warning('Đăng ký chưa hoàn tất. Kiểm tra lại email hoặc thử lại.')
       except Exception as e:
         st.error(f'Lỗi: {e}')
   else:
@@ -39,8 +63,12 @@ def render_auth_form() -> None:
         st.session_state.auth_token = res.session.access_token
         st.session_state.user_email = email
         st.rerun() # reload lại để hiển thị giao diện chat
-      except Exception:
-        st.error('Sai email hoặc mật khẩu')
+      except Exception as e:
+        msg = str(e).lower()
+        if 'not confirmed' in msg or 'email not confirmed' in msg:
+          st.error('Email chưa được xác nhận. Hãy bấm link trong email trước khi đăng nhập.')
+        else:
+          st.error('Sai email hoặc mật khẩu')
   st.stop()
 
 def render_user_info() -> None:
