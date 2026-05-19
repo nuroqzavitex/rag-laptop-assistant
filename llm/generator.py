@@ -96,9 +96,11 @@ Dữ liệu tìm được (bao gồm sản phẩm và thông tin cửa hàng):
 
 YÊU CẦU:
 1. Trả lời trực tiếp vào nội dung khách hỏi.
-2. Nếu chỉ hỏi về sản phẩm, hãy tập trung vào sản phẩm.
-3. Nếu chỉ hỏi về shop/chính sách, hãy tập trung vào thông tin đó.
-4. Nếu hỏi cả hai hoặc câu hỏi mở, hãy khéo léo kết hợp thông tin một cách tự nhiên.
+2. NÊU RÕ VÀ PHÂN LOẠI SẢN PHẨM: Đối chiếu kỹ yêu cầu của khách hàng (như dòng chip, card đồ họa, tầm giá) với thông số sản phẩm. 
+   - Đầu tiên, liệt kê các sản phẩm KHỚP CHÍNH XÁC với yêu cầu.
+   - Nếu có các sản phẩm KHÔNG KHỚP HOÀN TOÀN (ví dụ khách hỏi RTX 4060 nhưng trong danh sách có cả RTX 5060), hãy đặt chúng vào phần "Sản phẩm tương tự / Gợi ý thêm để tham khảo" và giải thích khéo léo (ví dụ: "Do số lượng máy khớp yêu cầu khá ít, mình xin gợi ý thêm các máy sử dụng card thế hệ mới có hiệu năng/mức giá tương đương...").
+3. Nếu chỉ hỏi về sản phẩm, hãy tập trung vào sản phẩm.
+4. Nếu chỉ hỏi về shop/chính sách, hãy tập trung vào thông tin đó.
 5. Luôn giữ phong cách thân thiện của Hùng Nhữ Computer.
 """
 
