@@ -22,9 +22,9 @@ def _need_contextualize(query: str) -> bool:
   if any(p in q for p in _CONTEXT_PRONOUNS):
     return True
   # Câu ngắn quá cũng có thể cần context trước đó
-  if len(query.split()) <= 4:
-    return True
-  return False
+  # if len(query.split()) <= 4:
+  #   return True
+  # return False
 
 class Chatbot:
   def __init__(self):
