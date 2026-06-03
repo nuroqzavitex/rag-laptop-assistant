@@ -79,9 +79,19 @@ def post_filter_results(results: list[dict[str, Any]], meta_filter: dict[str, An
 
     if 'storage_tb' in meta_filter:
       storage_str = meta.get('storage', '')
-      tb_nums = re.findall(r'(\d+)\s*GB', storage_str, re.I)
-      if tb_nums:
-        if int(tb_nums[0]) < meta_filter['storage_tb']:
+      target_gb = meta_filter['storage_tb'] * 1024
+      
+      prod_gb = None
+      tb_match = re.search(r'(\d+(?:\.\d+)?)\s*TB', storage_str, re.I)
+      if tb_match:
+        prod_gb = int(float(tb_match.group(1)) * 1024)
+      else:
+        gb_match = re.search(r'(\d+)\s*GB', storage_str, re.I)
+        if gb_match:
+          prod_gb = int(gb_match.group(1))
+          
+      if prod_gb is not None:
+        if prod_gb < target_gb:
           match = False
     
     if match:

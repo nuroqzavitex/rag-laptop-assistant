@@ -53,7 +53,25 @@ def test_post_filter_results():
     assert filtered[0]["id"] == 1
     assert filtered[1]["id"] == 3
 
-    # 3. Test fallback: Nếu lọc không ra kết quả nào, phải giữ nguyên danh sách cũ
+    # 3. Test lọc ổ cứng (phải so sánh sau khi đưa về cùng đơn vị GB)
+    storage_results = [
+        {"id": 1, "metadata": {"storage": "SSD 512GB"}},
+        {"id": 2, "metadata": {"storage": "SSD 1TB"}},
+        {"id": 3, "metadata": {"storage": "2TB"}},
+        {"id": 4, "metadata": {"storage": "SSD 256GB"}},
+    ]
+    meta_filter = {"storage_tb": 1} # Yêu cầu 1TB (1024GB) trở lên
+    filtered = post_filter_results(storage_results, meta_filter)
+    assert len(filtered) == 2
+    assert filtered[0]["id"] == 2
+    assert filtered[1]["id"] == 3
+
+    # 4. Test fallback: Nếu lọc không ra kết quả nào, phải giữ nguyên danh sách cũ
     meta_filter = {"ram_size": 64}
     filtered = post_filter_results(results, meta_filter)
     assert len(filtered) == 3 
+
+    # Test fallback cho ổ cứng
+    meta_filter = {"storage_tb": 4}
+    filtered = post_filter_results(storage_results, meta_filter)
+    assert len(filtered) == 4 
