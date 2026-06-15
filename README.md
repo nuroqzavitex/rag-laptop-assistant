@@ -48,6 +48,36 @@ An intelligent, context-aware customer support chatbot for a laptop store, power
 └── README.md           # Project documentation
 ```
 
+## 🔄 Workflow
+
+Dưới đây là sơ đồ xử lý yêu cầu (workflow) chi tiết của chatbot, từ khi nhận câu hỏi của người dùng cho đến khi trả về phản hồi:
+
+```mermaid
+graph TD
+    A([User Input]) --> B{0. Check Keyword?}
+    
+    %% Keyword Match
+    B -- Yes --> D[2. Determine Route]
+    
+    %% Normal Flow
+    B -- No --> C[1. Contextualize & Embed]
+    C --> D
+    
+    %% Routing
+    D --> E{Route Type?}
+    
+    %% Routes
+    E -- Chitchat --> F[3a. Handle Chitchat LLM]
+    E -- RAG / Company --> G[3b. Retrieve & Generate]
+    
+    %% Response & History
+    F --> H[4. Save History & Return]
+    G --> H
+
+    style A fill:#f9f9f9,stroke:#333,stroke-width:2px
+    style H fill:#e8f5e9,stroke:#4caf50,stroke-width:2px
+```
+
 ## ⚙️ Prerequisites
 
 - **Python:** >= 3.12
