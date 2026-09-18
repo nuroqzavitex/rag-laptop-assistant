@@ -1,6 +1,28 @@
+import json
 import requests
 from ui.config import API_URL
 import streamlit as st
+
+def post_chat_stream(session_id: str, message: str, token: str):
+  # Gửi tin nhắn đến API và nhận luồng dữ liệu SSE
+  headers = {'Authorization': f'Bearer {token}'}
+  resp = requests.post(
+    f'{API_URL}/chat/stream',
+    json={'message': message, 'session_id': session_id},
+    headers=headers,
+    stream=True,
+    timeout=60
+  )
+  resp.raise_for_status()
+  for line in resp.iter_lines(decode_unicode=True):
+    if line:
+      if line.startswith('data: '):
+        data_str = line[6:].strip()
+        if data_str:
+          try:
+            yield json.loads(data_str)
+          except json.JSONDecodeError:
+            pass
 
 def post_chat(session_id: str, message: str, token: str) -> dict:
   # Gửi tin nhắn đến API và nhận phản hồi

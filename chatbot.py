@@ -5,8 +5,8 @@ from core.models import ChatResponse
 from retriever.semantic_router import classify_query, check_keyword
 from retriever.retriever import retrieve_knowledge
 from retriever.intent_parser import is_company_query
-from llm.generator import generate_response, contextualize_query
-from chitchat import handle_chitchat
+from llm.generator import generate_response, contextualize_query, generate_response_stream
+from chitchat import handle_chitchat, handle_chitchat_stream
 from embedding.embedder import embed_texts
 from core.history import get_history, add_to_history, reset_history
 
@@ -115,6 +115,93 @@ class Chatbot:
         route='company' if company_only else 'rag',
         retrieval_time_ms=elapsed
       )
+
+  def chat_stream(self, query: str, user_id: str, session_id: str = 'default', save_history: bool = True):
+    start = time.time()
+    history = self._get_history(user_id, session_id) if save_history else []
+
+    # 0. Kiểm tra keyword matching trên câu GỐC trước!
+    kw_route = check_keyword(query)
+    
+    if kw_route:
+      standalone_query = query
+      query_emb = None
+      route = kw_route
+      log.info(f"Final query (keyword bypassed): '{standalone_query}' | Route: {route}")
+    else:
+      if history and _need_contextualize(query):
+        standalone_query = contextualize_query(query, history)
+      else:
+        standalone_query = query
+
+      query_emb = embed_texts(standalone_query)
+      route, scores = classify_query(standalone_query, query_emb)
+      log.info(f"Final query: '{standalone_query}' | Route: {route}")
+
+    # Xử lý theo route
+    if route == 'chitchat':
+      elapsed = (time.time() - start) * 1000
+      yield {
+        'type': 'meta',
+        'route': 'chitchat',
+        'products': [],
+        'retrieval_time_ms': elapsed
+      }
+
+      collected_chunks = []
+      for chunk in handle_chitchat_stream(standalone_query, history):
+        collected_chunks.append(chunk)
+        yield {'type': 'token', 'content': chunk}
+
+      full_answer = ''.join(collected_chunks)
+      if save_history:
+        self._add_to_history(user_id, session_id, 'user', query)
+        self._add_to_history(user_id, session_id, 'assistant', full_answer)
+
+      yield {'type': 'done'}
+
+    else:
+      company_only = is_company_query(standalone_query)
+      docs, intent, retrieval_ms = retrieve_knowledge(
+        standalone_query, query_emb=query_emb, company_only=company_only
+      )
+
+      products = []
+      if not company_only:
+        for doc in docs:
+          if doc.metadata.get('type') == 'product':
+            meta = doc.metadata
+            products.append({
+              'id': meta.get('product_id', ''),
+              'name': meta.get('name', ''),
+              'price': meta.get('price', ''),
+              'stock': meta.get('stock', ''),
+              'image_url': meta.get('image_url', ''),
+              'product_url': meta.get('product_url', ''),
+              'brand': meta.get('brand', ''),
+              'score': doc.score
+            })
+
+      elapsed = (time.time() - start) * 1000
+      final_route = 'company' if company_only else 'rag'
+      yield {
+        'type': 'meta',
+        'route': final_route,
+        'products': products,
+        'retrieval_time_ms': elapsed
+      }
+
+      collected_chunks = []
+      for chunk in generate_response_stream(standalone_query, docs, history):
+        collected_chunks.append(chunk)
+        yield {'type': 'token', 'content': chunk}
+
+      full_answer = ''.join(collected_chunks)
+      if save_history:
+        self._add_to_history(user_id, session_id, 'user', query)
+        self._add_to_history(user_id, session_id, 'assistant', full_answer)
+
+      yield {'type': 'done'}
 
 chatbot = Chatbot()
 

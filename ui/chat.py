@@ -1,5 +1,5 @@
 import streamlit as st
-from ui.api_client import post_chat
+from ui.api_client import post_chat, post_chat_stream
 import requests as _req
 
 def get_route_badge(route: str) -> str:
@@ -46,52 +46,61 @@ def render_message_history() -> None:
             render_product_card(prod)
 
 def render_chat_input() -> None:
-  # Xử lí chat input, gọi API và lưu tin nhắn vào session_state
+  # Xử lí chat input, gọi streaming API SSE và lưu tin nhắn vào session_state
   if prompt := st.chat_input('Nhập câu hỏi về laptop...'):
     st.session_state.messages.append({'role': 'user', 'content': prompt})
     with st.chat_message('user'):
       st.markdown(prompt)
     
     with st.chat_message('assistant'):
-      with st.spinner('Đang tư vấn...'):
+      badge_placeholder = st.empty()
+      metadata = {}
+
+      def stream_generator():
         try:
-          resp = post_chat(
+          for event in post_chat_stream(
             session_id=st.session_state.session_id,
             message=prompt,
-            token = st.session_state.auth_token
-          )
-
-          route = resp.get('route', 'product')
-          answer = resp.get('answer', 'Xin lỗi, tôi không có câu trả lời cho câu hỏi này.')
-          products = resp.get('products', [])
-          elapsed = resp.get('retrieval_time_ms', 0)
-
-          st.markdown(get_route_badge(route), unsafe_allow_html=True)
-          st.markdown(answer)
-
-          if products:
-            with st.expander(
-              f'Xem {len(products)} sản phẩm tìm được', expanded = False
-            ):
-              for prod in products:
-                render_product_card(prod)
-          st.caption(f'{elapsed:.0f} ms | Route: {route}')
-
-          st.session_state.messages.append(
-            {
-              'role': 'assistant',
-              'content': answer,
-              'route': route,
-              'products': products
-            }
-          )
-        
+            token=st.session_state.auth_token
+          ):
+            event_type = event.get('type')
+            if event_type == 'meta':
+              metadata['route'] = event.get('route', 'rag')
+              metadata['products'] = event.get('products', [])
+              metadata['retrieval_time_ms'] = event.get('retrieval_time_ms', 0)
+              badge_placeholder.markdown(get_route_badge(metadata['route']), unsafe_allow_html=True)
+            elif event_type == 'token':
+              yield event.get('content', '')
+            elif event_type == 'error':
+              yield f"\n\n⚠️ **Lỗi:** {event.get('error')}"
         except Exception as e:
           if isinstance(e, _req.exceptions.ConnectionError):
-            st.error('Không thể kết nối đến API. Hãy chạy API server trước')
-            st.code('uvicorn api.main:app --reload')
+            yield "\n\n⚠️ **Không thể kết nối đến API.** Vui lòng kiểm tra API server (`uvicorn api.main:app --reload`)."
           else:
-            st.error(f'Lỗi: {e}')
+            yield f"\n\n⚠️ **Lỗi:** {e}"
+
+      answer = st.write_stream(stream_generator())
+
+      # Hiển thị sản phẩm tìm được nếu có
+      products = metadata.get('products', [])
+      if products:
+        with st.expander(f'Xem {len(products)} sản phẩm tìm được', expanded=False):
+          for prod in products:
+            render_product_card(prod)
+
+      route = metadata.get('route', 'rag')
+      elapsed = metadata.get('retrieval_time_ms', 0)
+      st.caption(f'{elapsed:.0f} ms | Route: {route}')
+
+      st.session_state.messages.append(
+        {
+          'role': 'assistant',
+          'content': answer,
+          'route': route,
+          'products': products
+        }
+      )
+
 
 def main() -> None:
   st.set_page_config(page_title="Laptop Store Chatbot", page_icon="💻", layout="wide")

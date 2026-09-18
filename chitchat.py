@@ -45,3 +45,30 @@ def handle_chitchat(query: str, chat_history: list[dict[str, str]] | None = None
   except Exception as e:
     log.error(f'Chitchat error: {e}')
     return 'Xin chào! Bạn cần tư vấn laptop gì ạ?'
+
+def handle_chitchat_stream(query: str, chat_history: list[dict[str, str]] | None = None):
+  client = _get_client()
+
+  messages = [{'role': 'system', 'content': CHITCHAT_SYSTEM}]
+
+  if chat_history:
+    for msg in chat_history[-4:]:
+      messages.append({'role': msg['role'], 'content': msg['content']})
+  
+  messages.append({'role': 'user', 'content': query})
+
+  try:
+    response = client.chat.completions.create(
+      model=cfg.openai.generation_model,
+      messages=messages,
+      temperature=0.9,
+      max_tokens=512,
+      stream=True
+    )
+    for chunk in response:
+      if chunk.choices and chunk.choices[0].delta.content:
+        yield chunk.choices[0].delta.content
+  except Exception as e:
+    log.error(f'Chitchat streaming error: {e}')
+    yield "Xin chào! Bạn cần tư vấn laptop gì ạ?"
+

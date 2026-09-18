@@ -143,6 +143,56 @@ YÊU CẦU:
     
   return "Hệ thống OpenAI đang quá tải. Vui lòng thử lại sau giây lát."
 
+def generate_response_stream(
+  query: str,
+  retrieved_docs: list[RetrievedDoc],
+  chat_history: list[dict[str, str]] | None = None
+):
+  client = _get_client()
+  context = _format_knowledge_context(retrieved_docs)
+
+  user_msg = f"""Thông tin sản phẩm và kiến thức từ cửa hàng:
+{context}
+
+Câu hỏi của khách hàng: {query}
+
+Hãy tư vấn cho khách hàng dựa trên thông tin trên theo đúng quy tắc:
+1. Trả lời bằng tiếng Việt, thân thiện, chuyên nghiệp.
+2. Với danh sách sản phẩm:
+   - Đầu tiên, liệt kê các sản phẩm KHỚP CHÍNH XÁC với yêu cầu.
+   - Nếu có các sản phẩm KHÔNG KHỚP HOÀN TOÀN (ví dụ khách hỏi RTX 4060 nhưng trong danh sách có cả RTX 5060), hãy đặt chúng vào phần "Sản phẩm tương tự / Gợi ý thêm để tham khảo" và giải thích khéo léo (ví dụ: "Do số lượng máy khớp yêu cầu khá ít, mình xin gợi ý thêm các máy sử dụng card thế hệ mới có hiệu năng/mức giá tương đương...").
+3. Nếu chỉ hỏi về sản phẩm, hãy tập trung vào sản phẩm.
+4. Nếu chỉ hỏi về shop/chính sách, hãy tập trung vào thông tin đó.
+5. Luôn giữ phong cách thân thiện của Hùng Nhữ Computer.
+"""
+
+  messages = [{'role': 'system', 'content': SYSTEM_PROMPT}]
+
+  if chat_history:
+    for msg in chat_history:
+      messages.append({'role': msg['role'], 'content': msg['content']})
+
+  messages.append({'role': 'user', 'content': user_msg})
+
+  try:
+    response = client.chat.completions.create(
+      model=cfg.openai.generation_model,
+      messages=messages,
+      temperature=cfg.openai.temperature,
+      max_tokens=cfg.openai.max_tokens,
+      stream=True
+    )
+    for chunk in response:
+      if chunk.choices and chunk.choices[0].delta.content:
+        yield chunk.choices[0].delta.content
+  except Exception as e:
+    error_str = str(e).lower()
+    log.error(f'OpenAI Streaming error: {e}')
+    if 'insufficient_quota' in error_str:
+      yield "Tài khoản OpenAI của bạn hết số dư. Vui lòng nạp thêm tiền để tiếp tục."
+    else:
+      yield f"Xin lỗi, đã có lỗi xảy ra khi tạo câu trả lời: {e}"
+
 def contextualize_query(query: str, chat_history: list[dict[str, str]]) -> str:
   # Viết lại câu hỏi của user cho rõ nghĩa trước khi retrieve, không đưa ra câu trả lời
   if not chat_history:
