@@ -1,5 +1,7 @@
 # Laptop Store RAG Chatbot
 
+[![CI/CD Pipeline](https://github.com/nuroqzavitex/rag-laptop-assistant/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/nuroqzavitex/rag-laptop-assistant/actions/workflows/ci-cd.yml)
+
 An intelligent, context-aware customer support chatbot for a laptop store, powered by **Retrieval-Augmented Generation (RAG)**. The project integrates state-of-the-art NLP models, a vector database, and semantic routing to seamlessly handle both product-related queries and casual chitchat.
 
 ## 🌟 Features
